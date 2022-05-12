@@ -6,6 +6,7 @@ INSTRUCCIONES PARA EL MASTER:
 Abrir consola (ctrl+shift+i)
 
 Comandos de juego
+
     S -> Start reloj principal
     D -> Tirar dado
     Enter -> Control de tarjetas (Portada -> Pregunta -> Qitar...)
@@ -30,6 +31,7 @@ Comandos de juego
     shif+6 -> Restar al jugador 6
 
 Comandos sonidos
+
     C -> Cri, Cri, Cri
     P -> Penny, Penny, Penny
     Q -> Silence
