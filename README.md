@@ -1,9 +1,14 @@
 # MagaParty-Public
-Juego de preguntas frikis :P
+Juego de preguntas sobre manga, anime, videojuegos (relacionados con Japón) de 2 a 6 jugadores con un master.
+EL master es como el presentador del juego, quien es el único que ve las respuestas (que salen en consola)
 
-INSTRUCCIONES PARA EL MASTER:
+Como iniciar juego (modo desarollo):
 
-Abrir consola (ctrl+shift+i)
+    npm install
+    npm start
+
+**INSTRUCCIONES PARA EL MASTER:**
+- Abrir consola (ctrl+shift+i)
 
 Comandos de juego
 
