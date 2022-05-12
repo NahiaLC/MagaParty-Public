@@ -1,6 +1,6 @@
 # MagaParty-Public
-Juego de preguntas sobre manga, anime, videojuegos (relacionados con Japón) de 2 a 6 jugadores con un master.
-EL master es como el presentador del juego, quien es el único que ve las respuestas (que salen en consola)
+Juego de preguntas sobre manga, anime, videojuegos (relacionados con Japón) de 2 a 6 equipos con un master.
+EL master es como el presentador del juego, quien es el único que ve las respuestas (que salen en consola) y el que controla el juego.
 
 Como iniciar juego (modo desarollo):
 
@@ -10,7 +10,7 @@ Como iniciar juego (modo desarollo):
 **INSTRUCCIONES PARA EL MASTER:**
 - Abrir consola (ctrl+shift+i)
 
-Comandos de juego
+Comandos de juego:
 
     S -> Start reloj principal
     D -> Tirar dado
@@ -35,10 +35,19 @@ Comandos de juego
     shif+5 -> Restar al jugador 5
     shif+6 -> Restar al jugador 6
 
-Comandos sonidos
+Comandos sonidos:
 
     C -> Cri, Cri, Cri
     P -> Penny, Penny, Penny
     Q -> Silence
     X -> Nein, Nein, Nein
     Z -> Zasca
+
+Pruebas:
+- Pregunta & Cultura japonesa: Tipica pregunta respuesta (controles: enter + Y | N)
+- Reaper: Igual que pregunta, pero con una dificultad extrema (controles: enter + Y | N)
+- Mímica: Uno del equipo hace mímica y los demás adivinan (controles: enter + mostrar la mímica H, otra vez H para ocultarla y empezar tiempo + Y | N)
+- Música: Suena la música y adivinar (controles: enter + Y | N)
+- Silueta: Adivinar silueta (controles: enter + Y | N)
+- Tabú: Como mímica pero la carta siempre se muestra, asegurarse de que el resto del equipo no mire (controles: enter + mostrar H y empezar tiempo + Y | N)
+- Verdadero y Falso: Preguntas sobre el tema mostrado en portada (controles: enter + para empezar tiempo T + Y | N)
