@@ -1,0 +1,133 @@
+#setGame{
+    width: 60%;
+    max-width: 700px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#setGame aside{
+    width: 50%;
+    display: block;
+}
+#setGame aside div{
+    width: 85%;
+}
+#setGame article article{clear: both;}
+#setGame div.value{
+    background-image: url("../images/gui/field.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    width: 70%; height: auto;
+}
+#setGame .box{
+    display: inline-block;
+    width: 25%;
+    margin: 5px 0 0;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.box .tooltiptext {
+    visibility: hidden;
+    font-size: 14px;
+    line-height: 15px;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 2px;
+    position: absolute;
+    z-index: 1;
+    bottom: 105%;
+    left: 50%;
+    margin-left: -50%;
+}
+#setGame .tabletop .total{
+    display: inline-block;
+    width: 70%;
+    margin: 5%;
+}
+.box:hover .tooltiptext {visibility: visible;}
+#setGame input{
+    font-family: "Itim";
+    font-size: 2.5vh;
+    background: none;
+    border: none;
+    color: #000;
+    width: auto;
+    text-align: center;
+}
+#setGame input{
+    font-family: "Itim";
+    font-size: 2.5vh;
+    background: none;
+    border: none;
+    color: #fff;
+    width: auto;
+    text-align: center;
+}
+#setGame .box input{
+    color: #000;
+}
+#setGame .box.reaper input{
+    color: #fff;
+}
+#setGame .team input{
+    text-align: left;
+    padding-left: 20%;
+    color: #E67300;
+    max-width: 95%;
+    line-height: 4vh;
+}
+#setGame .tabletop .total input{width: 40%;}
+#setGame input:invalid{color: red;}
+
+/* Ocultar casillas switch */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 23%;
+    height: 2.5vh;
+    vertical-align: middle;
+}
+.switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+.slider {
+    position: absolute;
+    cursor: pointer;
+    border-radius: 34px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.slider:before {
+    position: absolute;
+    border-radius: 50%;
+    content: "";
+    height: 100%;
+    width: 50%;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+input:checked + .slider {
+    background-color: #FF9C00;
+}
+input:focus + .slider {
+    box-shadow: 0 0 1px #FF9C00;
+}
+input:checked + .slider:before {
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    transform: translateX(100%);
+}

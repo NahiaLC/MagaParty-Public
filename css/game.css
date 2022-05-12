@@ -1,0 +1,141 @@
+section#game{
+    width: 95%; height: 95%;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #000;
+}
+#game header, #game footer{
+    width: 100%; height: 10%;
+    max-width: initial;
+    padding: initial;
+}
+#game header div{
+    height: 100%;
+    font-size: 3vh;
+}
+#game footer{clear: both;}
+#game #globalTime{
+    float: left;
+    width: 20%;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff,
+    1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+#game #crono{
+    float: right;
+    width: 15%;
+    text-align: right;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff,
+    1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+#game #crono .sec{
+    font-size: 4vh;
+}
+#game #crono .miliSec{
+    font-size: 2vh;
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+}
+#game #team{
+    display: inline-block;
+    width: 65%;
+    text-align: center;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff,
+    1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+#game header .avatar{
+    height: 70%;
+    vertical-align: bottom;
+}
+#game header .avatar.left{
+    transform: scaleX(-1);
+}
+#game .tabletop{
+    clear: none;
+    width: 100%; height: 80%;
+    padding: 1%;
+    display: flex;
+}
+
+#game .tabletop aside{
+    display: block;
+    width: 10%;
+}
+#game .tabletop aside.points{
+    float: left;
+    transition: transform 1s;
+}
+#game .tabletop aside.points .team .value {
+    color: #fff;
+    font-weight: bold;
+}
+#game .tabletop aside.blank{float: right;}
+
+div#avatarStart {
+    height: 10%;
+    margin: 0 !important;
+}
+#game .tabletop aside div{
+    width: 100%;
+    margin: 20% 0;
+}
+#game .tabletop .points .team{
+    height: 10%;
+    background-position: center;
+    font-size: 2vh;
+}
+#game .tabletop .points .team .value{
+    height: fit-content;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#game .tabletop #box-content{
+    display: inline-block;
+    width: 80%;
+    max-height: 100%;
+    padding: 1%;
+}
+
+#game .tabletop #card, #game .tabletop #hideCard, #game .tabletop #dice{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    transition: transform 1s;
+}
+#game .tabletop #card, #game .tabletop #hideCard{
+    background-size: contain;
+    background-position: center;
+    text-align: center;
+    z-index: 2; 
+    width: 90%;
+    --widthA: 90%;
+    --heightA: calc(var(--widthA) + 8px);
+    height: var(--heightA);
+    max-width: 800px;
+    max-height: 600px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+    border-radius: 20px;
+}
+#game .tabletop #hideCard{
+    background-image: url("../images/cards/hideCard.png");
+}
+#game .tabletop #card.hidden, #game .tabletop #hideCard.hidden{
+    display: none;
+}
+#game .tabletop #dice{
+    background-image: url("../images/tabletop/dice/1.png");
+    left: calc(50% - 50px);
+    top: calc(50% - 50px);
+    max-width: 100px;
+    max-height: 100px;
+}
+#game .tabletop .zoom_in{
+    transform: scale(1);
+}
+#game .tabletop .zoom_out{
+    transform: scale(0);
+}

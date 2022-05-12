@@ -1,0 +1,538 @@
+{
+    "1": {
+        "a": "Himura Kenshin <i>Battōsai</i>",
+        "o": "Rurouni Kenshin"
+    },
+    "2": {
+        "a": "Magikarp",
+        "o": "Pokémon (I gen.)"
+    },
+    "3": {
+        "a": "Keroberos / Kero",
+        "o": "Sakura Card Captor"
+    },
+    "4": {
+        "a": "Akame",
+        "o": "Akame ga Kill!"
+    },
+    "5": {
+        "a": "Zabuza",
+        "o": "Naruto"
+    },
+    "6": {
+        "a": "Ban",
+        "o": "Nanatsu no Taizai"
+    },
+    "7": {
+        "a": "Celty Sturluson",
+        "o": "Durarara!!"
+    },
+    "8": {
+        "a": "Diane",
+        "o": "Nanatsu no Taizai"
+    },
+    "9": {
+        "a": "Shulk",
+        "o": "Xenoblade Chronicles"
+    },
+    "10": {
+        "a": "Gowther",
+        "o": "Nanatsu no Taizai"
+    },
+    "11": {
+        "a": "Kaname Madoka",
+        "o": "Puella Magi Madoka Magica"
+    },
+    "12": {
+        "a": "Elias Anisworth",
+        "o": "Mahoutsukai no Yome"
+    },
+    "13": {
+        "a": "Matsuno Karamatsu",
+        "o": "Osomatsu-kun"
+    },
+    "14": {
+        "a": "Rem",
+        "o": "Re:Zero Kara Hajimaru Isekai Seikatsu"
+    },
+    "15": {
+        "a": "Super Sonico",
+        "o": "Nitroplus"
+    },
+    "16": {
+        "a": "Poipole",
+        "o": "Pokémon (7ª generación)"
+    },
+    "17": {
+        "a": "Yazawa Nico",
+        "o": "Love Live! School Idol Project"
+    },
+    "18": {
+        "a": "Rex",
+        "o": "Xenoblade Chronicles 2"
+    },
+    "19": {
+        "a": "Samina / Lusamine",
+        "o": "Pokémon Sol y Pokémon Luna"
+    },
+    "20": {
+        "a": "Armin Arlert",
+        "o": "Shingeki no Kyōjin"
+    },
+    "21": {
+        "a": "Hinata Shōyō",
+        "o": "Haikyuu!!"
+    },
+    "22": {
+        "a": "Tohru",
+        "o": "Kobayashi-san Chi no Maid Dragon"
+    },
+    "23": {
+        "a": "Mokona Modoki",
+        "o": "CLAMP!"
+    },
+    "24": {
+        "a": "Sheik",
+        "o": "The Legend of Zelda"
+    },
+    "25": {
+        "a": "Princesa Daisy",
+        "o": "Mario Bros."
+    },
+    "26": {
+        "a": "Lavi",
+        "o": "D.Gray-Man"
+    },
+    "27": {
+        "a": "Conan Edogawa / Kudō Shin'ichi",
+        "o": "Detective Conan"
+    },
+    "28": {
+        "a": "Hamtaro",
+        "o": "Hamtaro"
+    },
+    "29": {
+        "a": "Aladdin",
+        "o": "Magi: The Labyrinth of Magic"
+    },
+    "30": {
+        "a": "Cell",
+        "o": "Dragon Ball"
+    },
+    "31": {
+        "a": "Jiraiya",
+        "o": "Naruto"
+    },
+    "32": {
+        "a": "Shin-chan / Nohara Shinnosuke",
+        "o": "Crayon Shin-chan"
+    },
+    "33": {
+        "a": "Roy Mustang",
+        "o": "Fullmetal Alchemist"
+    },
+    "34": {
+        "a": "Black Star",
+        "o": "Soul Eater"
+    },
+    "35": {
+        "a": "Nnoitra Gilga",
+        "o": "Bleach"
+    },
+    "36": {
+        "a": "Sonic",
+        "o": "Sonic The Hedgehog"
+    },
+    "37": {
+        "a": "Alphonse Elric",
+        "o": "Fullmetal Alchemist"
+    },
+    "38": {
+        "a": "Brook",
+        "o": "One Piece"
+    },
+    "39": {
+        "a": "Arale",
+        "o": "Dr. Slump"
+    },
+    "40": {
+        "a": "Cloud Strife",
+        "o": "Final Fantasy VII"
+    },
+    "41": {
+        "a": "Bowser",
+        "o": "Super Mario Bros."
+    },
+    "42": {
+        "a": "Seiya de Pegaso",
+        "o": "Saint Seiya / Caballeros del Zodiaco"
+    },
+    "43": {
+        "a": "Chihiro",
+        "o": "El viaje de Chihiro"
+    },
+    "44": {
+        "a": "Chun-Li",
+        "o": "Street Fighter"
+    },
+    "45": {
+        "a": "Donkey Kong",
+        "o": "Donkey Kong"
+    },
+    "46": {
+        "a": "Amane Misa",
+        "o": "Death Note"
+    },
+    "47": {
+        "a": "Allen Walker",
+        "o": "D.Gray-Man"
+    },
+    "48": {
+        "a": "Don Patch",
+        "o": "Bobobo-bo Bobo-bo"
+    },
+    "49": {
+        "a": "Edward Elric",
+        "o": "Fullmetal Alchemist"
+    },
+    "50": {
+        "a": "Eren Jaeger",
+        "o": "Shingeki no Kyōjin"
+    },
+    "51": {
+        "a": "Reg",
+        "o": "Made in Abyss"
+    },
+    "52": {
+        "a": "Franky",
+        "o": "One Piece"
+    },
+    "53": {
+        "a": "Froakie",
+        "o": "Pokémon (VI gen.)"
+    },
+    "54": {
+        "a": "Happy",
+        "o": "Fairy Tail"
+    },
+    "55": {
+        "a": "Hello Kitty",
+        "o": "Hello Kitty"
+    },
+    "56": {
+        "a": "Hershel Layton",
+        "o": "Profesor Layton"
+    },
+    "57": {
+        "a": "Kurosaki Ichigo",
+        "o": "Bleach"
+    },
+    "58": {
+        "a": "Gokū / Kakarotto",
+        "o": "Dragon Ball"
+    },
+    "59": {
+        "a": "N / Natural Armonia Gropius",
+        "o": "Pokémon Negro y Pokémon Blanco"
+    },
+    "60": {
+        "a": "Echizen Ryōma",
+        "o": "Prince of Tennis"
+    },
+    "61": {
+        "a": "Jigglypuff",
+        "o": "Pokémon (I gen.)"
+    },
+    "62": {
+        "a": "Kakuna",
+        "o": "Pokémon (I gen.)"
+    },
+    "63": {
+        "a": "Kanda Yū",
+        "o": "D.Gray-Man"
+    },
+    "64": {
+        "a": "Kikyō",
+        "o": "InuYasha"
+    },
+    "65": {
+        "a": "Dr. Ivo <i>Eggman</i> Robotnik",
+        "o": "Sonic The Hedgehog"
+    },
+    "66": {
+        "a": "Fox McCloud",
+        "o": "Star Fox"
+    },
+    "67": {
+        "a": "Shinoa Hiiragi",
+        "o": "Owari no Seraph"
+    },
+    "68": {
+        "a": "Rey Boo",
+        "o": "Super Mario"
+    },
+    "69": {
+        "a": "Kirby",
+        "o": "Kirby"
+    },
+    "70": {
+        "a": "Bayonetta / Cereza",
+        "o": "Bayonetta"
+    },
+    "71": {
+        "a": "Link",
+        "o": "The Legend of Zelda"
+    },
+    "72": {
+        "a": "Mitsukai Dokuro",
+        "o": "Bokusatsu Tenshi Dokuro-chan"
+    },
+    "73": {
+        "a": "L Lawliet",
+        "o": "Death Note"
+    },
+    "74": {
+        "a": "Hatsune Miku",
+        "o": "Vocaloid"
+    },
+    "75": {
+        "a": "Guts",
+        "o": "Berserk"
+    },
+    "76": {
+        "a": "Mario",
+        "o": "Mario Bros."
+    },
+    "77": {
+        "a": "Morrigan Aensland",
+        "o": "Darkstalkers"
+    },
+    "78": {
+        "a": "Astro Boy / Mighty Atom",
+        "o": "Astro Boy / Mighty Atom"
+    },
+    "79": {
+        "a": "MegaMan / Rockman",
+        "o": "MegaMan / Rockman"
+    },
+    "80": {
+        "a": "Claire",
+        "o": "Claymore"
+    },
+    "81": {
+        "a": "Mokujin",
+        "o": "Tekken"
+    },
+    "82": {
+        "a": "Monkey D. Luffy",
+        "o": "One Piece"
+    },
+    "83": {
+        "a": "Capitán Olimar",
+        "o": "Pikmin"
+    },
+    "84": {
+        "a": "Capitán Falcon",
+        "o": "f-Zero"
+    },
+    "85": {
+        "a": "Darunia",
+        "o": "The Legend of Zelda"
+    },
+    "86": {
+        "a": "Tachikoma",
+        "o": "Ghost in the Shell"
+    },
+    "87": {
+        "a": "Ice Climbers",
+        "o": "Ice Climber"
+    },
+    "88": {
+        "a": "Italia Veneciano / Feliciano Vargas",
+        "o": "Axis Power Hetalia"
+    },
+    "89": {
+        "a": "Mr. Game and Watch",
+        "o": "Game and Watch"
+    },
+    "90": {
+        "a": "Nightmare",
+        "o": "Soul Calibur"
+    },
+    "91": {
+        "a": "Lagiacrus",
+        "o": "Monster Hunter"
+    },
+    "92": {
+        "a": "Orochimaru",
+        "o": "Naruto"
+    },
+    "93": {
+        "a": "Nausicaä",
+        "o": "Nausicaä del Valle del Viento"
+    },
+    "94": {
+        "a": "Pac-Man",
+        "o": "Pac-Man"
+    },
+    "95": {
+        "a": "Princesa Peach",
+        "o": "Mario Bros."
+    },
+    "96": {
+        "a": "P-chan / Hibiki Ryōga",
+        "o": "Ranma ½"
+    },
+    "97": {
+        "a": "Phoenix Wright / Naruhodō Ryūichi",
+        "o": "Ace Attorney"
+    },
+    "98": {
+        "a": "Pit",
+        "o": "Kid Icarus"
+    },
+    "99": {
+        "a": "Ash Ketchum / Satoshi",
+        "o": "Pokémon"
+    },
+    "100": {
+        "a": "Saotome Genma",
+        "o": "Ranma ½"
+    },
+    "101": {
+        "a": "Portgas D. Ace",
+        "o": "One Piece"
+    },
+    "102": {
+        "a": "Dante",
+        "o": "Devil May Cry"
+    },
+    "103": {
+        "a": "Puar",
+        "o": "Dragon Ball"
+    },
+    "104": {
+        "a": "Hyōga del Cisne",
+        "o": "Saint Seiya / Caballeros del Zodiaco"
+    },
+    "105": {
+        "a": "Okumura Rin",
+        "o": "Ao no Exorcist"
+    },
+    "106": {
+        "a": "Kuchiki Rukia",
+        "o": "Bleach"
+    },
+    "107": {
+        "a": "Rusia / Ivan Braginski",
+        "o": "Axis Power Hetalia"
+    },
+    "108": {
+        "a": "Ryuk",
+        "o": "Death Note"
+    },
+    "109": {
+        "a": "Ryū",
+        "o": "Street Fighter"
+    },
+    "110": {
+        "a": "Sai",
+        "o": "Naruto"
+    },
+    "111": {
+        "a": "Samus Aran",
+        "o": "Metroid"
+    },
+    "112": {
+        "a": "Sephirot",
+        "o": "Final Fanasy VII"
+    },
+    "113": {
+        "a": "Shinigami-sama",
+        "o": "Soul Eater"
+    },
+    "114": {
+        "a": "Shippō",
+        "o": "InuYasha"
+    },
+    "115": {
+        "a": "Shiryū del Dragón",
+        "o": "Saint Seiya / Caballeros del Zodiaco"
+    },
+    "116": {
+        "a": "Shishio Makoto",
+        "o": "Rurōni Kenshin"
+    },
+    "117": {
+        "a": "Sir Arthur",
+        "o": "Ghosts'n Goblins"
+    },
+    "118": {
+        "a": "Sogeking / Usopp",
+        "o": "One Piece"
+    },
+    "119": {
+        "a": "Soul Evans forma guadaña",
+        "o": "Soul Eater"
+    },
+    "120": {
+        "a": "Gatomon / Tailmon",
+        "o": "Digimon"
+    },
+    "121": {
+        "a": "Temari",
+        "o": "Naruto"
+    },
+    "122": {
+        "a": "Monokuma",
+        "o": "Danganronpa"
+    },
+    "123": {
+        "a": "Totoro",
+        "o": "Mi Vecino Totoro"
+    },
+    "124": {
+        "a": "Trafalgar Law",
+        "o": "One Piece"
+    },
+    "125": {
+        "a": "Vash <i>La Estampida</i>",
+        "o": "Trigun"
+    },
+    "126": {
+        "a": "Vegeta",
+        "o": "Dragon Ball"
+    },
+    "127": {
+        "a": "Ayanami Rei",
+        "o": "Neon Genesis Evangelion"
+    },
+    "128": {
+        "a": "Voldo",
+        "o": "Soul Calibur"
+    },
+    "129": {
+        "a": "Voltorb",
+        "o": "Pokémon (I gen.)"
+    },
+    "130": {
+        "a": "Vulcan 300",
+        "o": "Zatch Bell"
+    },
+    "131": {
+        "a": "Mūto Yūgi",
+        "o": "Yu-Gi-Oh!"
+    },
+    "132": {
+        "a": "Zatch Bell",
+        "o": "Zatch Bell"
+    },
+    "133": {
+        "a": "Boruto",
+        "o": "Boruto: Naruto Next Generation"
+    },
+    "134": {
+        "a": "Bakugō Katsuki",
+        "o": "Boku no Hero Academia"
+    }
+}

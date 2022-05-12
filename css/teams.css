@@ -1,0 +1,126 @@
+#setGame .team{
+    background-size: auto 80%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#game .team, #game .avatar{
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.team.disabled, .avatar.disabled{
+    opacity: 0.2;
+}
+.team.disabled > .value{
+    display: none;
+}
+
+#box-content .avatar{
+    position: absolute;
+    width: 80%;
+    height: 100%;
+    top: -10px;
+    z-index: 2;
+    transform: scaleX(-1);
+    transition: all 1s;
+}
+#box-content .avatar.stop{
+    height: 40%;
+    margin: 0;
+    width: 40%;
+    z-index: 1;
+}
+
+.team.red, #avatarStart #_1{
+    background-image: url("../images/player/red/Idle.png");
+}
+.team.blue, #avatarStart #_2{
+    background-image: url("../images/player/blue/Idle.png");
+}
+.team.green, #avatarStart #_3{
+    background-image: url("../images/player/green/Idle.png");
+}
+.team.yellow, #avatarStart #_4{
+    background-image: url("../images/player/yellow/Idle.png");
+}
+.team.cian, #avatarStart #_5{
+    background-image: url("../images/player/cian/Idle.png");
+}
+.team.pink, #avatarStart #_6{
+    background-image: url("../images/player/pink/Idle.png");
+}
+
+#avatarStart div.avatar {
+    position: absolute;
+    margin: 0 !important;
+    width: 15% !important;
+    height: 60% !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.avatar.stop#_1{
+    left: 0;
+    top: 0;
+}
+.avatar.stop#_2{
+    left: 30%;
+    top: 0;
+}
+.avatar.stop#_3{
+    left: 60%;
+    top: 0;
+}
+.avatar.stop#_4{
+    left: 0;
+    top: 50%;
+}
+.avatar.stop#_5{
+    left: 30%;
+    top: 50%;
+}
+.avatar.stop#_6{
+    left: 60%;
+    top: 50%;
+}
+#avatarStart #_1{
+    left: 90%;
+    top: 0;
+}
+#avatarStart #_2{
+    left: 60%;
+    top: 0;
+}
+#avatarStart #_3{
+    left: 30%;
+    top: 0;
+}
+#avatarStart #_4{
+    left: 90%;
+    top: 65%;
+}
+#avatarStart #_5{
+    left: 60%;
+    top: 65%;
+}
+#avatarStart #_6{
+    left: 30%;
+    top: 65%;
+}
+
+.team#red{
+    background-image: url("../images/tabletop/t_red.png");
+}
+.team#blue{
+    background-image: url("../images/tabletop/t_blue.png");
+}
+.team#green{
+    background-image: url("../images/tabletop/t_green.png");
+}
+.team#yellow{
+    background-image: url("../images/tabletop/t_yellow.png");
+}
+.team#cian{
+    background-image: url("../images/tabletop/t_cian.png");
+}
+.team#pink{
+    background-image: url("../images/tabletop/t_pink.png");
+}

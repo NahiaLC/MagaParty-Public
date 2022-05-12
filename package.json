@@ -1,0 +1,64 @@
+{
+  "name": "MangaParty",
+  "version": "1.0.0",
+  "description": "Juego friki de preguntas",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-packager . MangaParty --overwrite --arch=x64",
+    "make": "electron-forge make --overwrite --arch=x64"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NahiaLC/MangaParty.git"
+  },
+  "keywords": [],
+  "author": "AihaN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NahiaLC/MangaParty/issues"
+  },
+  "homepage": "https://github.com/NahiaLC/MangaParty#readme",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63",
+    "@electron-forge/maker-deb": "^6.0.0-beta.63",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.63",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.63",
+    "@electron-forge/maker-zip": "^6.0.0-beta.63",
+    "electron": "^12.2.3",
+    "electron-rebuild": "^3.2.7"
+  },
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "electron-builder": "^22.14.13",
+    "electron-squirrel-startup": "^1.0.0",
+    "fs": "0.0.1-security"
+  },
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "icon": "images/logoMTK/iconMTK.ico"
+      },
+      "makers": [
+        {
+          "name": "@electron-forge/maker-zip",
+          "config": {
+            "name": "MangaParty"
+          },
+          "platforms": [
+            "darwin",
+            "win32"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "config": {}
+        }
+      ]
+    }
+  }
+}

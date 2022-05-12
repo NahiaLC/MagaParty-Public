@@ -1,0 +1,802 @@
+{
+    "1": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Digimon Adventures</big><br><small><i>Brave Heart</i><br>de Miyazaki Ayumi</small>"
+    },
+    "2": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Dragon Ball Z</big><br><small><i>Cha-La Head-Cha-La</i><br>de Kageyama Hironobu</small>"
+    },
+    "3": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Elfen Lied</big><br><small><i>Lilium</i><br>por Oguro Kumiko</small>"
+    },
+    "4": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>One Piece</big><br><small><i>Hands Up!</i><br>de Shinzato Kōta</small>"
+    },
+    "5": {
+        "q": "¿A la banda sonora de qué anime pertenece esta canción?",
+        "a": "<big>Kimetsu no Yaiba</big><br><small><i>Fushigi ~Kamado Tanjirō~ Kasugai-garasu to tomo ni</i><br>de Shiina Gō</small>"
+    },
+    "6": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Free!</big><br><small><i>Rage on</i><br>de OLDCODEX</small>"
+    },
+    "7": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Noragami</big><br><small><i>Goya no machiawase</i><br>de Hello Sleepwalkers</small>"
+    },
+    "8": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Nanatsu no Taizai</big><br><small><i>Netsujō no Spectrum</i><br>de Ikimono-gakari</small>"
+    },
+    "9": {
+        "q": "¿En qué videojuego aparece esta canción?",
+        "a": "<big>Super Mario Odyssey</big><br><small><i>Jump Up, Super Star!</i><br>por The Super Mario Players</small>"
+    },
+    "10": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>The Legend of Zelda: Breath of the Wild</big><br><small><i>Saikai Revali</i><br>de Iwata Yasuaki</small>"
+    },
+    "11": {
+        "q": "¿En qué videojuego aparece originalmente esta canción?",
+        "a": "<big>The Legend of Zelda: Ocarina of Time</big><br><small><i>Gerudo Valley</i><br>de Kondō Kōji</small>"
+    },
+    "12": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Another</big><br><small><i>Kyōmu Densen</i><br>de ALI PROJECT</small>"
+    },
+    "13": {
+        "q": "¿A la banda sonora de qué anime pertenece esta canción?",
+        "a": "<big>Sword Art Online</big><br><small><i>Swordland</i><br>de Kajiura Yūki</small>"
+    },
+    "14": {
+        "q": "¿En qué videojuego aparece esta canción?",
+        "a": "<big>Kirby: Triple Deluxe</big><br><small><i>Dedede's Royal Payback</i><br>de Ishikawa Jun</small>"
+    },
+    "15": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>No Game No Life</big><br><small><i>This Game</i><br>de Suzuki Konomi</small>"
+    },
+    "16": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Ao Haru Ride</big><br><small><i>Sekai wa koi ni ichiteiru</i><br>por CHiCO</small>"
+    },
+    "17": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Naruto</big><br><small><i>Haruka Kanata</i><br>de Asian Kung-Fu Generation</small>"
+    },
+    "18": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Assassination Classroom</big><br><small><i>Seishun Satsubatsuron</i><br>por 3-nen E-gumi Utatan</small>"
+    },
+    "19": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Baccano!</big><br><small><i>Gun's & Roses</i><br>de Paradise Lunch</small>"
+    },
+    "20": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Fairy Tail</big><br><small><i>Strike Back</i><br>de BACK-ON</small>"
+    },
+    "21": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kimetsu no Yaiba</big><br><small><i>Zankyō sanka</i><br>de Aimer</small>"
+    },
+    "22": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Nanbaka</big><br><small><i>Rin! Rin! Hi! Hi!</i><br>de HGK hugs TSB</small>"
+    },
+    "23": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Black Bullet</big><br><small><i>Black bullet</i><br>de fripSide</small>"
+    },
+    "24": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Bleach</big><br><small><i>After Dark</i><br>de Asian Kung-Fu Generation</small>"
+    },
+    "25": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Bleach</big><br><small><i>Ranbu no Melody</i><br>de SID</small>"
+    },
+    "26": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Boku Dake ga Inai Machi</big><br><small><i>Re:Re</i><br>de Asian Kung-Fu Generation</small>"
+    },
+    "27": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Boku no Hero Academia</big><br><small><i>The Day</i><br>de Porno Graffitti</small>"
+    },
+    "28": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Death Parade</big><br><small><i>Flyers</i><br>de BRADIO</small>"
+    },
+    "29": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Violet Evergarden</big><br><small><i>Sincerely</i><br>de TRUE</small>"
+    },
+    "30": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Card Captor Sakura</big><br><small><i>Catch You Catch Me</i><br>de GUMI</small>"
+    },
+    "31": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Black Clover</big><br><small><i>Haruka Mirai</i><br>de Kankaku Pierrot</small>"
+    },
+    "32": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Card Captor Sakura: Clear Card</big><br><small><i>CLEAR</i><br>de Sakamoto Maaya</small>"
+    },
+    "33": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>JoJo's Bizarre Adventure</big><br><small><i>Bloody stream</i><br>de Coda</small>"
+    },
+    "34": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Code Geass</big><br><small><i>COLORS</i><br>de FLOW</small>"
+    },
+    "35": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Cowboy Bebop</big><br><small><i>Tank!</i><br>por SEATBELTS (Kanno Yōko)</small>"
+    },
+    "36": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>D.Gray-Man</big><br><small><i>Doubt & Trust</i><br>de Access</small>"
+    },
+    "37": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Eromanga-sensei</big><br><small><i>Hitorigoto</i><br>de ClariS</small>"
+    },
+    "38": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Danganronpa</big><br><small><i>Never say never</i><br>por TKDz2b</small>"
+    },
+    "39": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Death Note</big><br><small><i>What's up, people?!</i><br>de Maximum the Hormone</small>"
+    },
+    "40": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Initial D</big><br><small><i>Deja Vu</i><br>de Dave Rodgers</small>"
+    },
+    "41": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Diamond no Ace</big><br><small><i>Hashire! Mirai</i><br>de GLAY</small>"
+    },
+    "42": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Yowamushi Pedal</big><br><small><i>Yowamushi-na Honō</i><br>de DIRTY OOLD MEN</small>"
+    },
+    "43": {
+        "q": "¿A la banda sonora de qué anime pertenece esta canción?",
+        "a": "<big>Durarara!!</big><br><small><i>Akogare no hi nichijō</i><br>de Yoshimori Makoto</small>"
+    },
+    "44": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Dragon Ball</big><br><small><i>Makafushigi Adventure!</i><br>por Takahashi Hiroki</small>"
+    },
+    "45": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Dragon Ball Super</big><br><small><i>Chōzetsu Dynamic!</i><br>de Yoshii Kazuya</small>"
+    },
+    "46": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Durarara!!</big><br><small><i>Uragiri no Yūyake</i><br>de Theatre Brook</small>"
+    },
+    "47": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Eyeshield 21</big><br><small><i>Blaze Line</i><br>de BACK-ON</small>"
+    },
+    "48": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Fairy Tail Zero</big><br><small><i>Ashita wo Narase</i><br>de Shishido Kavka</small>"
+    },
+    "49": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Fate/Stay Night: Unlimited Blade Works</big><br><small><i>Ideal White</i><br>de Ayano Mashiro</small>"
+    },
+    "50": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Fate/Zero</big><br><small><i>To the beginning</i><br>de Kalafina</small>"
+    },
+    "51": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Fullmetal Alchemist: Brotherhood</big><br><small><i>Hologram</i><br>de NICO touches the Walls</small>"
+    },
+    "52": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Fullmetal Alchemist: Brotherhood</big><br><small><i>Period</i><br>de CHEMISTRY</small>"
+    },
+    "53": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Fairy Tail</big><br><small><i>Ft.</i><br>de Funkist</small>"
+    },
+    "54": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Gangsta</big><br><small><i>Renegade</i><br>de STEREO DIVE FOUNDATION</small>"
+    },
+    "55": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kill la Kill</big><br><small><i>ambiguous</i><br>de GARNiDELiA</small>"
+    },
+    "56": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Tokyo Ravens</big><br><small><i>~Outgrow~</i><br>de Gero</small>"
+    },
+    "57": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Gintama</big><br><small><i>Sakura Mitstsuki</i><br>de SPYAIR</small>"
+    },
+    "58": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Metal Slug</big><br><small><i>Main Theme (stage 1)</i><br>por SNK Sound Team</small>"
+    },
+    "59": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Digimon Adventure: (2020)</big><br><small><i>Mikakunin Hikōsen</i><br>de Tanimoto Takayoshi</small>"
+    },
+    "60": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Haikyuu!!</big><br><small><i>Imagination</i><br>de SPYAIR</small>"
+    },
+    "61": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Darling in the Franxx</big><br><small><i>Kiss of Death</i><br>de Nakashima Mika</small>"
+    },
+    "62": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Hellsing</big><br><small><i>The World without Logos</i><br>de Ishii Yasushi</small>"
+    },
+    "63": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Highschool of The Dead</big><br><small><i>Highschool of The Dead</i><br>de Kishida Kyōdan & The Akeboshi Rockets</small>"
+    },
+    "64": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Higurashi no Naku Koro ni</big><br><small><i>Higurashi no Naku Koro ni</i><br>de Shimamiya Eiko</small>"
+    },
+    "65": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Hunter x Hunter</big><br><small><i>Departure!</i><br>de Ono Masatoshi</small>"
+    },
+    "66": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Inazuma Eleven</big><br><small><i>Tashiagari-yo</i><br>de T-Pistonz</small>"
+    },
+    "67": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Inuyasha</big><br><small><i>Change the World</i><br>de V6</small>"
+    },
+    "68": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>One Punch-Man</big><br><small><i>The Hero!! ~Ikareru Ken ni Honō o Tsukero~</i><br>de JAM Project</small>"
+    },
+    "69": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>JoJo's Bizarre Adventure</big><br><small><i>Great Days</i><br>de Aoki Karen & Hasegawa Daisuke</small>"
+    },
+    "70": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kaichou wa Maid-sama</big><br><small><i>My secret</i><br>de Mizuno Saaya</small>"
+    },
+    "71": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kakumeiki Valvrave</big><br><small><i>Kakumei Dualism</i><br>de Mizuki Nana x T.M.Revolution</small>"
+    },
+    "72": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Katekyo Hitman Reborn!</big><br><small><i>Boys & Girls</i><br>de LM.C</small>"
+    },
+    "73": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kill la Kill</big><br><small><i>Sirius</i><br>de Eir Aoi</small>"
+    },
+    "74": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kuroko no Basket</big><br><small><i>The Other Self</i><br>de GRANRODEO</small>"
+    },
+    "75": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kuroko no Basket</big><br><small><i>Memories</i><br>de GRANRODEO</small>"
+    },
+    "76": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kuroshitsuji</big><br><small><i>Enamel</i><br>de SID</small>"
+    },
+    "77": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kekkai Sensen / Blood Blockade Battlefront</big><br><small><i>Hello, World!</i><br>de BUMP OF CHICKEN</small>"
+    },
+    "78": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Little Witch Academia</big><br><small><i>Mind Conductor</i><br>de YURiKA</small>"
+    },
+    "79": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Log Horizon</big><br><small><i>Database/i><br>de MAN WITH A MISSION ft. TAKUMA</small>"
+    },
+    "80": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Love Hina</big><br><small><i>Sakura Saku</i><br>de Hayashibara Megumi</small>"
+    },
+    "81": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Magi: The Labyrinth of Magic</big><br><small><i>V.I.P.</i><br>de SID</small>"
+    },
+    "82": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Mahouka Koukou no Rettousei</big><br><small><i>Grilletto</i><br>de GARNiDELiA</small>"
+    },
+    "83": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Mahoutsukai no Yome</big><br><small><i>Here</i><br>de JUNNA</small>"
+    },
+    "84": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Gokushufudō (Yakuza amo de casa)</big><br><small><i>Shufu no Michi</i><br>de UchikubiGokumon-Dōkōkai</small>"
+    },
+    "85": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Horimiya</big><br><small><i>Irokōsui</i><br>de Kamiyama Yō</small>"
+    },
+    "86": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Mob Psycho 100</big><br><small><i>99</i><br>de MOB Choir</small>"
+    },
+    "87": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Nana</big><br><small><i>Lucy</i><br>de Tsuchiya Anna</small>"
+    },
+    "88": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Nanatsu no Taizai</big><br><small><i>Seven Deadly Sins</i><br>MAN WITH A MISSION</small>"
+    },
+    "89": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Naruto Sippuuden</big><br><small><i>Blue Bird</i><br>de Ikimono-gakari</small>"
+    },
+    "90": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Naruto</big><br><small><i>Yura Yura</i><br>de Hearts Grow</small>"
+    },
+    "91": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Neon Genesis Evangelion</big><br><small><i>Zankoku-na Tenshi no These</i><br>de Takahashi Yōko & Sagisu Shiro</small>"
+    },
+    "92": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Tsukiuta. The Animation</big><br><small><i>Paint it Black!</i><br>por Six Gravity</small>"
+    },
+    "93": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Noragami Aragoto</big><br><small><i>Kyōran Hey Kids!!</i><br>de THE ORAL CIGARETTES</small>"
+    },
+    "94": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>One Piece</big><br><small><i>Fight Together</i><br>de Namie Amuro</small>"
+    },
+    "95": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>One Piece</big><br><small><i>One Day</i><br>de The ROOTLESS</small>"
+    },
+    "96": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>One Piece</big><br><small><i>Kokoro no Chizu</i><br>de BOYSTYLE</small>"
+    },
+    "97": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>One Piece</big><br><small><i>Brand New World</i><br>de D-51</small>"
+    },
+    "98": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Ookami Shoujo to Kuro-Ouji</big><br><small><i>Love good time</i><br>de SpecialThanks</small>"
+    },
+    "99": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Ookiku Furikabutte</big><br><small><i>Dramatic</i><br>de Base Ball Bear</small>"
+    },
+    "100": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Vampire Knight</big><br><small><i>Rinne Rondo</i><br>de ON & OFF</small>"
+    },
+    "101": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Marmalade Boy</big><br><small><i>Egao ni aitai</i><br>por Hamada Rei</small>"
+    },
+    "102": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Koutetsujō no Kabaneri</big><br><small><i>Kotetsujō no Kabaneri</i><br>de EGOIST</small>"
+    },
+    "103": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Orange</big><br><small><i>Hikari no Hahen</i><br>de Takahashi Yū</small>"
+    },
+    "104": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Ore no Imouto ga Konna ni Kawaii Wake ga Nai (OreImo)</big><br><small><i>Irony</i><br>de ClariS</small>"
+    },
+    "105": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Ouran Host Club</big><br><small><i>Sakura Kiss</i><br>por Kawabe Chieko</small>"
+    },
+    "106": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Overlord</big><br><small><i>Clattanoia</i><br>de OxT</small>"
+    },
+    "107": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Parasyte</big><br><small><i>Let me hear</i><br>de Fear, and Loathing in Las Vegas</small>"
+    },
+    "108": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Saint Seiya</big><br><small><i>Pegasus Fantasy</i><br>de Make-Up</small>"
+    },
+    "109": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Pokémon</big><br><small><i>Gotta catch ’em all!</i><br>de John Siegler & John Loeffler</small>"
+    },
+    "110": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Pokémon Sun and Moon</big><br><small><i>Pose</i><br>de Okazaki Taiiku</small>"
+    },
+    "111": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Vinland Saga</big><br><small><i>Mukanjyo</i><br>de Survive Said The Prophet</small>"
+    },
+    "112": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Prince of Tennis</big><br><small><i>Make you free</i><br>de Kimeru</small>"
+    },
+    "113": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Psycho-Pass</big><br><small><i>Out of control</i><br>de Nothing's Carved in Stone</small>"
+    },
+    "114": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Puella Magi Madoka Magica</big><br><small><i>Connect</i><br>de ClariS</small>"
+    },
+    "115": {
+        "q": "¿En qué videojuego aparece esta canción?",
+        "a": "<big>Phoenix Wright: Ace Attorney</big><br><small><i>Tsuikyu ~Oitsumerarete</i><br>de Sugimori Masakazu</small>"
+    },
+    "116": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Re:Zero kara Hajimeru Isekai Seikatsu</big><br><small><i>Redo</i><br>de Suzuki Konomi</small>"
+    },
+    "117": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Sakamoto desu ga?</big><br><small><i>Coolest</i><br>de CUSTOMI Z</small>"
+    },
+    "118": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Rurouni Kenshin (Samurai X)</big><br><small><i>Sobakasu</i><br>de Judy & Mary"
+	},
+    "119": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Sword Art Online</big><br><small><i>Ignite</i><br>de Eir Aoi</small>"
+    },
+    "120": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Sword Art Online</big><br><small><i>Crossing Field</i><br>de LiSA</small>"
+    },
+    "121": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Shigatsu wa Kimi no Uso</big><br><small><i>Hikaru nara</i><br>de Goose House</small>"
+    },
+    "122": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Shiki</big><br><small><i>Kuchizuke</i><br>de Buck-Tick</small>"
+    },
+    "123": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Shin-chan</big><br><small><i>Soy muy popular</i><small>"
+    },
+    "124": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Shingeki! Kyojin Chuugakkou</big><br><small><i>Seishun wa Hanabi no you ni</i><br>de Linked Horizon</small>"
+    },
+    "125": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Shokugeki no Soma</big><br><small><i>Raising Rainbow</i><br>de Misokkasu</small>"
+    },
+    "126": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Shokugeki no Soma</big><br><small><i>Rough Diamons</i><br>de SCREEN Mode</small>"
+    },
+    "127": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Naruto Shippuuden</big><br><small><i>Sign</i><br>de FLOW</small>"
+    },
+    "128": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Slayers Next</big><br><small><i>Give a reason</i><br>de Hayashibara Megumi</small>"
+    },
+    "129": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Shingeki no Kyojin</big><br><small><i>Guren no Yumiya</i><br>de Linked Horizon</small>"
+    },
+    "130": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Shingeki no Kyojin</big><br><small><i>Jiyū no Tsubasa</i><br>de Linked Horizon</small>"
+    },
+    "131": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Haikyuu!!</big><br><small><i>I'm a believer</i><br>de SPYAIR</small>"
+    },
+    "132": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Steins;Gate</big><br><small><i>Hacking to the Gate</i><br>de Ito Kanako</small>"
+    },
+    "133": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Strike the Blood</big><br><small><i>Fight 4 real</i><br>de Altima</small>"
+    },
+    "134": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Tales of Zestiria the X</big><br><small><i>Kaze no Uta</i><br>de FLOW</small>"
+    },
+    "135": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Terraformars</big><br><small><i>Amazing break</i><br>de TERRASPEX</small>"
+    },
+    "136": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Tokyo Ghoul</big><br><small><i>Unravel</i><br>de TK from Ling Tosite Sigure</small>"
+    },
+    "137": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>To Love Ru</big><br><small><i>Forever we can make it!</i><br>de THYME</small>"
+    },
+    "138": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Tonari no Kaibutsu-kun</big><br><small><i>Q&A Recital!</i><br>de Tomatsu Haruka</small>"
+    },
+    "139": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Toradora</big><br><small><i>Silky heart</i><br>de Horie Yui</small>"
+    },
+    "140": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Tengen Toppa Gurren Lagann</big><br><small><i>Sorairo Days</i><br>de Nakagawa Shōko</small>"
+    },
+    "141": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Umineko no Naku Koro ni</big><br><small><i>Katayoku no Tori</i><br>de Shikata Akiko</small>"
+    },
+    "142": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Magi: The Kingdom of Magic</big><br><small><i>Hikari</i><br>de ViViD</small>"
+    },
+    "143": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Aldnoah.Zero</big><br><small><i>aLIEz</i><br>de SawanoHiroyuki:Mizuki [NZk]</small>"
+    },
+    "144": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Drifters</big><br><small><i>Gospel of the Throttle</i><br>de Minutes Til Midnight</small>"
+    },
+    "145": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Yowamushi Pedal Grande Road</big><br><small><i>Remind</i><br>de ROOKiEZ is PUNK'D</small>"
+    },
+    "146": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Yu-Yu Hakusho</big><br><small><i>Hohoemi no Bakudan</i><br>de Mawatari Matsuko</small>"
+    },
+    "147": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Yuri!!! on Ice</big><br><small><i>History maker</i><br>de Dean Fujioka</small>"
+    },
+    "148": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Zankyou no Terror</big><br><small><i>Trigger</i><br>de Ozaki Yūki</small>"
+    },
+    "149": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Zero no Tsukaima</big><br><small><i>First kiss</i><br>de Ichiko</small>"
+    },
+    "150": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Castlevania: Symphony of the Night</big><br><small><i>Bloody Tears (Hard Rock Version A)</i><br>por Yamane Michiru</small>"
+    },
+    "151": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Octopath Traveler</big><br><small><i>OCTOPATH TRAVELER -Main Theme-</i><br>de Nishiki Yasunori</small>"
+    },
+    "152": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Crash Bandicoot 3</big><br><small><i>Warp room</i><br>de Josh Mancell</small>"
+    },
+    "153": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Devil May Cry 3</big><br><small><i>Battle-1 (Battle Music 1)</i><br>de Hasegawa Kento & Shibata Tetsuya</small>"
+    },
+    "154": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Donkey Kong Country</big>"
+    },
+    "155": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>MegaMan 2</big>"
+    },
+    "156": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Final Fantasy VII</big><br><small><i>One-winged angel</i><br>de Uematsu Nobuo</small>"
+    },
+    "157": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Final Fantasy VIII</big><br><small><i>Force your way</i><br>de Uematsu Nobuo</small>"
+    },
+    "158": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Final Fantasy XV</big><br><small><i>Stand your ground</i><br>de Shinomura Yōko</small>"
+    },
+    "159": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Kingdom Hearts</big><br><small><i>Hikari</i><br>de Utada Hikaru</small>"
+    },
+    "160": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Kirby</big><br><small><i>Dream Land</i><br>de Ishikawa Jun</small>"
+    },
+    "161": {
+        "q": "¿A la banda sonora de qué anime pertenece esta canción?",
+        "a": "<big>Mi vecino Totoro</big><br><small><i>Tonari no Totoro (instrumental)</i><br>de Hisaishi Joe</small>"
+    },
+    "162": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Metal Gear Solid</big>"
+    },
+    "163": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>New Super Mario Bross</big><br><small><i>Overworld Theme</i><br>de Kondō Kōji</small>"
+    },
+    "164": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Pac-Man</big><br><small><i>Main Theme</i><br>de Ono Hiroshi</small>"
+    },
+    "165": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Pokémon X·Y</big><br><small><i>Illumis</i><br>de Kageyama Shōta & GAME FREAK</small>"
+    },
+    "166": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Puzzle Bobble</big><br><small><i>Paopaotou e Ikou!</i><br>de Umino Kazuko</small>"
+    },
+    "167": {
+        "q": "¿En la banda sonora de qué videojuego aparece por primera vez esta canción?",
+        "a": "<big>The Legend of Zelda: Ocarina of Time</big><br><small><i>Song of Storms</i><br>de Kondō Kōji</small>"
+    },
+    "168": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Sonic the Hedgehog</big><br><small><i>Green Hill Zone</i><br>de Nakamura Masato</small>"
+    },
+    "169": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Street Fighter</big><br><small><i>Guile's Theme</i><br>de Shinomura Yōko</small>"
+    },
+    "170": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Mario Kart 8</big><br><small><i>Main Menu Theme</i><br>de Fujii Shijo</small>"
+    },
+    "171": {
+        "q": "¿A la banda sonora de qué videojuegos pertenece esta canción?",
+        "a": "<big>The Legend of Zelda</big><br><small><i>Main Theme</i><br>de Kondō Kōji</small>"
+    },
+    "172": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Ao no Exorcist</big><br><small><i>Me & Creed</i><br>de Sawano Hiroyuki</small>"
+    },
+    "173": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kimi no Na wa (Your Name)</big><br><small><i>Zenzenzense</i><br>de RADWIMPS</small>"
+    },
+    "174": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Ao no Exorcist</big><br><small><i>Itteki no Eikyō</i><br>de UVERworld</small>"
+    },
+    "175": {
+        "q": "¿A la banda sonora de qué videojuegos pertenece esta canción?",
+        "a": "<big>Ni no Kuni 2: El Renacer de un Reino</big><br><small><i>Main Theme</i><br>de Hisaishi Joe</small>"
+    },
+    "176": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Servamp</big><br><small><i>Sunlight Avenue</i><br>de Terashima Takuma</small>"
+    },
+    "177": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Uchouten Kazoku</big><br><small><i>Naru ga mama, Sawagu mama</i><br>de Milktub</small>"
+    },
+    "178": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>To aru Kagaku no Railgun</big><br><small><i>Only my Railgun</i><br>de fripSide</small>"
+    },
+    "179": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Mobile Suit Gundam Unicorn</big><br><small><i>Into the sky</i><br>de SawanoHiroyuki:Tielle (NZk)</small>"
+    },
+    "180": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Keppeki Danshi! Aoyama-kun</big><br><small><i>White</i><br>de Bentham</small>"
+    },
+    "181": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Yowamushi Pedal: Glory Line</big><br><small><i>Boku no Koe</i><br>de Rhythmic Toy World</small>"
+    },
+    "182": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kobayashi-san Chi no Maid Dragon</big><br><small><i>Aozora Rhapsody</i><br>de fhána</small>"
+    },
+    "183": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Himouto! Umaru-chan</big><br><small><i>Kakushinteki Metamorufōze!</i><br>por Tanaka Aimi</small>"
+    },
+    "184": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Boruto: Naruto Next Generations</big><br><small><i>Baton Road</i><br>de KANA-BOON</small>"
+    },
+    "185": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Chrono Trigger</big><br><small><i>Frog's Theme</i><br>de Mitsuda Yasunori</small>"
+    },
+    "186": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Pokémon</big><br><small><i>Battle theme (v.)</i><br>de Masuda Jun'ichi</small>"
+    },
+    "187": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Animal Crossing</big>"
+    },
+    "188": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Cave Story (Dōkutsu Monogatari)</big><br><small><i>Plantation (Main Theme)</i><br>de Amaya Daisuke</small>"
+    },
+    "189": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Touhou Kaeidzuka - Phantasmagoria of Flower View</big><br><small><i>Flowering Night</i><br>de Team Shanghai Alice</small>"
+    },
+    "190": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Juuni Taisen</big><br><small><i>Rapture</i><br>de Panorama Panama Town</small>"
+    },
+    "191": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Dororo</big><br><small><i>Kaen</i><br>de QUEEN BEE</small>"
+    },
+    "192": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Fruits Basket (2019)</big><br><small><i>Lucky Ending</i><br>de Vickeblanka</small>"
+    },
+    "193": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Hataraku Saibō</big><br><small><i>Mission! Ken·Kou·Dai·Ichi</i><br>de Hataraku Saibō</small>"
+    },
+    "194": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kaguya-sama wa Kokurasetai (Love is War)</big><br><small><i>Love Dramatic</i><br>de Suzuki Masayuki ft. Ihara Rikka</small>"
+    },
+    "195": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Boku no Hero Academia</big><br><small><i>Merry-Go-Round</i><br>de MAN WITH A MISSION</small>"
+    },
+    "196": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Kimetsu no Yaiba</big><br><small><i>Gurenge</i><br>de LiSA</small>"
+    },
+    "197": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Dōkyonin wa Hiza, Tokidoki, Atama no Ue (My Roommate is a Cat)</big><br><small><i>Unknown World</i><br>de Schrodinger's Cat ft. kotoringo</small>"
+    },
+    "198": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Pokémon Sun and Moon</big><br><small><i>Mirai Connection</i><br>de ReaL</small>"
+    },
+    "199": {
+        "q": "¿En qué anime aparece esta canción?",
+        "a": "<big>Wotaku ni Koi wa Muzukashii (Wotakoi)</big><br><small><i>Fiction</i><br>de Sumika</small>"
+    },
+    "200": {
+        "q": "¿A la banda sonora de qué videojuego pertenece esta canción?",
+        "a": "<big>Xenoblade Chronicles 2</big><br><small><i>Where we used to be (title screen theme)</i><br>de Mitsuda Yasunori</small>"
+    }
+}

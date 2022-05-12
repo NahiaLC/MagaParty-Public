@@ -1,0 +1,403 @@
+{
+    "1": {
+        "a": "Saint Seiya<br><small>Caballeros del Zodiaco</small>",
+        "o1": "Armadura",
+        "o2": "Constelación",
+        "o3": "Salvar",
+        "o4": "Griego",
+		"o5": "Caja"
+    },
+    "2": {
+        "a": "Mario Bros.",
+        "o1": "Princesa",
+        "o2": "Fontanero",
+        "o3": "Seta",
+        "o4": "Tortuga",
+		"o5": "Tubería"
+    },
+    "3": {
+        "a": "Shokugeki no Sōma<br><small>Food Wars</small>",
+        "o1": "Escuela",
+        "o2": "Cocina",
+        "o3": "Comida",
+        "o4": "Reto",
+		"o5": "Expresión"
+    },
+    "4": {
+        "a": "Owari no Seraph<br><small>Seraph of the End</small>",
+        "o1": "Vampiro",
+        "o2": "Demonio",
+        "o3": "Venganza",
+        "o4": "Espada",
+		"o5": "Ángel"
+    },
+    "5": {
+        "a": "Haikyū!!",
+        "o1": "Voleiból",
+        "o2": "Red",
+        "o3": "Saltar",
+        "o4": "Cuervo",
+		"o5": "Pelota"
+    },
+    "6": {
+        "a": "Sen to Chihiro no Kamikakushi<br><small>El Viaje de Chihiro</small>",
+        "o1": "Dragón",
+        "o2": "Cerdo",
+        "o3": "Hechizo",
+        "o4": "Escapar",
+		"o5": "Comer"
+    },
+    "7": {
+        "a": "Inazuma Eleven",
+        "o1": "Fútbol",
+        "o2": "Técnica",
+        "o3": "Portero",
+        "o4": "Rayo",
+		"o5": "Efecto"
+    },
+    "8": {
+        "a": "Shin Seiki Evangelion<br><small>Neon Genesis Evangelion</small>",
+        "o1": "Robot",
+        "o2": "Ángel",
+        "o3": "Salvar",
+        "o4": "Padre",
+		"o5": "Depresión"
+    },
+    "9": {
+        "a": "Pokémon",
+        "o1": "Bola",
+        "o2": "Registrar",
+        "o3": "Atrapar",
+        "o4": "Pelear",
+		"o5": "Medalla"
+    },
+    "10": {
+        "a": "Mobile Suit Gundam",
+        "o1": "Robot",
+        "o2": "Guerra",
+        "o3": "Espacio",
+        "o4": "Colonia",
+		"o5": "Piloto"
+    },
+    "11": {
+        "a": "Digimon Adventures",
+        "o1": "Elegir",
+        "o2": "Compañero",
+        "o3": "Digievolucionar",
+        "o4": "Luchar",
+		"o5": "Dato"
+    },
+    "12": {
+        "a": "Durarara!!",
+        "o1": "Bandas",
+        "o2": "Estudiantes",
+        "o3": "Problemas",
+        "o4": "Cabeza",
+		"o5": "Chat"
+    },
+    "13": {
+        "a": "Yūri!! On Ice",
+        "o1": "Competición",
+        "o2": "Patinaje",
+        "o3": "Música",
+        "o4": "Pareja",
+		"o5": "Cuchilla"
+    },
+    "14": {
+        "a": "Death Note",
+        "o1": "Parca",
+        "o2": "Escribir",
+        "o3": "Morir",
+        "o4": "Manzana",
+		"o5": "Detective"
+    },
+    "15": {
+        "a": "Yu-Gi-Oh!",
+        "o1": "Carta",
+        "o2": "Monstruo",
+        "o3": "Juego",
+        "o4": "Puzzle",
+		"o5": "Egipcio"
+    },
+    "16": {
+        "a": "Final Fantasy",
+        "o1": "Saga",
+        "o2": "Magia",
+        "o3": "Armas",
+        "o4": "Rol",
+		"o5": "Turno"
+    },
+    "17": {
+        "a": "Captain Tsubasa<br><small>Campeones: Oliver y Benji</small>",
+        "o1": "Fútbol",
+        "o2": "Infinito",
+        "o3": "Tigre",
+        "o4": "Águila",
+		"o5": "Campo"
+    },
+    "18": {
+        "a": "Card Captor Sakura",
+        "o1": "Magia",
+        "o2": "Niña",
+        "o3": "Bastón",
+        "o4": "Recoger",
+		"o5": "Disfraz"
+    },
+    "19": {
+        "a": "Black Clover",
+        "o1": "Magia",
+        "o2": "Espada",
+        "o3": "Libro",
+        "o4": "Tener",
+		"o5": "Negar"
+    },
+    "20": {
+        "a": "Metroid",
+        "o1": "Armadura",
+        "o2": "Galaxia",
+        "o3": "Pirata",
+        "o4": "Criatura",
+		"o5": "Chica"
+    },
+    "21": {
+        "a": "Hunter x Hunter",
+        "o1": "Nen",
+        "o2": "Asesino",
+        "o3": "Padre",
+        "o4": "Combate",
+		"o5": "Papel"
+    },
+    "22": {
+        "a": "Ansatsu Kyōshitsu<br><small>Assassination Classroom</small>",
+        "o1": "Matar",
+        "o2": "Clase",
+        "o3": "Luna",
+        "o4": "Marginar",
+		"o5": "Profesor"
+    },
+    "23": {
+        "a": "Free!",
+        "o1": "Nadar",
+        "o2": "Piscina",
+        "o3": "Rival",
+        "o4": "Amigos",
+		"o5": "Deporte"
+    },
+    "24": {
+        "a": "Boruto: Naruto Next Generations",
+        "o1": "Ninja",
+        "o2": "Naranja",
+        "o3": "Hijo",
+        "o4": "Secuela",
+		"o5": "Padre"
+    },
+    "25": {
+        "a": "Kuroko no Basket",
+        "o1": "Inadvertido",
+        "o2": "Milagro",
+        "o3": "Campeonato",
+        "o4": "Escuelas",
+		"o5": "Baloncesto"
+    },
+    "26": {
+        "a": "Mononoke-hime<br><small>La Pincesa Mononoke</small>",
+        "o1": "Naturaleza",
+        "o2": "Bosque",
+        "o3": "Hierro",
+        "o4": "Lobo",
+		"o5": "Espíritu"
+    },
+    "27": {
+        "a": "One Piece",
+        "o1": "Pirata",
+        "o2": "Tesoro",
+        "o3": "Fruta",
+        "o4": "Barco",
+		"o5": "Rey"
+    },
+    "28": {
+        "a": "Boku no Hero Academia<br><small>My Hero Academia</small>",
+        "o1": "Clase",
+        "o2": "Poder",
+        "o3": "Don",
+        "o4": "Fuerza",
+		"o5": "Villano"
+    },
+    "29": {
+        "a": "Ao no Exorcist<br><small>Blue Exorcist</small>",
+        "o1": "Demonio",
+        "o2": "Fuego",
+        "o3": "Azul",
+        "o4": "Clase",
+		"o5": "Espada"
+    },
+    "30": {
+        "a": "Nanatsu no Taizai<br><small>The Seven Deadly Sins</small>",
+        "o1": "Guerra",
+        "o2": "Magia",
+        "o3": "Siete",
+        "o4": "Pecado",
+		"o5": "Cerdo"
+    },
+    "31": {
+        "a": "Sailor Moon",
+        "o1": "Transformar",
+        "o2": "Gato",
+        "o3": "Planeta",
+        "o4": "Cristal",
+		"o5": "Traje"
+    },
+    "32": {
+        "a": "Shingeki no Kyōjin<br><small>Ataque a los Titanes</small>",
+        "o1": "Venganza",
+        "o2": "Masacrar",
+        "o3": "Explorar",
+        "o4": "Transformar",
+		"o5": "Muralla"
+    },
+    "33": {
+        "a": "Berserk",
+        "o1": "Venganza",
+        "o2": "Demonio",
+        "o3": "Espadón",
+        "o4": "Halcón",
+		"o5": "Muerto"
+    },
+    "34": {
+        "a": "Tonari no Totoro<br><small>Mi vecino Totoro</small>",
+        "o1": "Espíritu",
+        "o2": "Gatobús",
+        "o3": "Hollín",
+        "o4": "Amigo",
+		"o5": "Niña"
+    },
+    "35": {
+        "a": "One-Punch Man",
+        "o1": "Héroe",
+        "o2": "Calvo",
+        "o3": "Monstruo",
+        "o4": "Agencia",
+		"o5": "Fuerte"
+    },
+    "36": {
+        "a": "JoJo no Kimyō-na Bōken<br><small>JoJo's Bizarre Adventures</small>",
+        "o1": "Familia",
+        "o2": "Estrella",
+        "o3": "Lucha",
+        "o4": "Stand",
+		"o5": "Pero"
+    },
+    "37": {
+        "a": "Zelda no Densetsu<br><small>The Legend of Zelda</small>",
+        "o1": "Princesa",
+        "o2": "Reino",
+        "o3": "Salvar",
+        "o4": "Espada",
+		"o5": "Rupia"
+    },
+    "38": {
+        "a": "Kingdom Hearts",
+        "o1": "Corazón",
+        "o2": "Llave",
+        "o3": "Salvar",
+        "o4": "Espada",
+		"o5": "Incorpóreo"
+    },
+    "39": {
+        "a": "Fruits Basket",
+        "o1": "Zodiaco",
+        "o2": "Animal",
+        "o3": "Transformar",
+        "o4": "Abrazar",
+		"o5": "Maldición"
+    },
+    "40": {
+        "a": "Tōkyō Ghoul",
+        "o1": "Medio",
+        "o2": "Kagune",
+        "o3": "Comer",
+        "o4": "Guerra",
+		"o5": "Café"
+    },
+    "41": {
+        "a": "Yakusoku no Neverland<br><small>The Promised Neverland</small>",
+        "o1": "Orfanato",
+        "o2": "Demonios",
+        "o3": "Pilla-Pilla",
+        "o4": "Cerebro",
+		"o5": "Niño"
+    },
+    "42": {
+        "a": "Chainsaw Man",
+        "o1": "Demonio",
+        "o2": "Corazón",
+        "o3": "Mascota",
+        "o4": "Sierra",
+		"o5": "Transformar"
+    },
+    "43": {
+        "a": "Hataraku Saibō<br><small>Cells at Work</small>",
+        "o1": "Célula",
+        "o2": "Cuerpo",
+        "o3": "Linfocito",
+        "o4": "Glóbulo",
+		"o5": "Enfermedad"
+    },
+    "44": {
+        "a": "Mob Psycho 100",
+        "o1": "Poderes",
+        "o2": "Psíquico",
+        "o3": "Sentimiento",
+        "o4": "Estafa",
+		"o5": "Telekinesis"
+    },
+    "45": {
+        "a": "K-On",
+        "o1": "Música",
+        "o2": "Piano",
+        "o3": "Guitarra",
+        "o4": "Batería",
+		"o5": "Bajo"
+    },
+    "46": {
+        "a": "Kimetsu no Yaiba<br><small>Guardianes de la Noche</small>",
+        "o1": "Espada",
+        "o2": "Demonio",
+        "o3": "Respirar",
+        "o4": "Pîlar",
+		"o5": "Tren"
+		
+    },
+    "47": {
+        "a": "Tensei Shitara Slime Datta Ken<br><small>Aquella vez que me convertí en slime</small>",
+        "o1": "Muerte",
+        "o2": "Monstruo",
+        "o3": "Ciudad",
+        "o4": "Azul",
+		"o5": "Dragón"
+    },
+    "48": {
+        "a": "Kono Subarashii Sakai ni Shukufuku O! (KonoSuba!)",
+        "o1": "Muerte",
+        "o2": "Monstruo",
+        "o3": "Ciudad",
+        "o4": "Azul",
+		"o5": "Explosión"
+    },
+    "49": {
+        "a": "Persona",
+        "o1": "Demonio",
+        "o2": "Arma",
+        "o3": "Palacio",
+        "o4": "Instituto",
+		"o5": "Máscara"
+    },
+    "50": {
+        "a": "Tekken",
+        "o1": "Torneo",
+        "o2": "Pelear",
+        "o3": "Familia",
+        "o4": "Panda",
+		"o5": "Puño"
+    }
+}

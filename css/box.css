@@ -1,0 +1,77 @@
+.row{
+    position: relative;
+    width: 100%; height: 18%;
+}
+#game .box{
+    position: absolute;
+    width: 8%; height: 60%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    max-width: 100px; max-height: 100%;
+    display: inline-block;
+    z-index: 0;
+}
+
+.box.c_1{left: 0;}.box.c_2{left: 4%;}.box.c_3{left: 11%;}.box.c_4{left: 18%;}.box.c_5{left: 25%;}
+.box.c_6{left: 32%;}.box.c_7{left: 39%;}.box.c_8{left: 46%;}.box.c_9{left: 53%;}.box.c_10{left: 60%;}
+.box.c_11{left: 67%;}.box.c_12{left: 74%;}.box.c_13{left: 81%;}.box.c_14{left: 88%;}.box.c_15{right: 0;}
+
+.box.c_1, .l_5 .box.c_6, .l_3 .box.c_6{top: -50%;}
+.l_5 .box.c_6, .l_3 .box.c_6{left: 30%;}
+.box.c_15, .l_2 .box.c_10, .l_4 .box.c_10{top: 50%;}
+.l_2 .box.c_10, .l_4 .box.c_10{left: 62%;}
+
+.box.cultjapo{
+    background-image: url("../images/tabletop/c_cultjapo.png");
+}
+.box.mimica{
+    background-image: url("../images/tabletop/c_mimica.png");
+}
+.box.musica{
+    background-image: url("../images/tabletop/c_musica.png");
+}
+.box.pregunta{
+    background-image: url("../images/tabletop/c_pregunta.png");
+}
+.box.silueta{
+    background-image: url("../images/tabletop/c_silueta.png");
+}
+.box.tabu{
+    background-image: url("../images/tabletop/c_tabu.png");
+}
+.box.vf{
+    background-image: url("../images/tabletop/c_vf.png");
+}
+.box.random{
+    background-image: url("../images/tabletop/c_random.gif");
+}
+.box.reaper{
+    background-image: url("../images/tabletop/c_reaper.png");
+}
+.box.bolas{
+    background-image: url("../images/tabletop/c_bolas.png");
+}
+.box.hidden{
+    background-image: url("../images/tabletop/c_oculta.png");
+}
+
+.row.l_1 .box,
+.row.l_2 .c_10,
+.row.l_3 .c_11, .row.l_3 .c_12, .row.l_3 .c_13, .row.l_3 .box.c_14,
+.row.l_4 .c_10,
+.row.l_5 .c_11, .row.l_5 .c_12, .row.l_5 .c_13, .row.l_5 .box.c_14{transform: scaleX(-1);}
+
+.row.l_6 .box,
+.row.l_2 .c_2, .row.l_2 .c_3, .row.l_2 .c_4, .row.l_2 .box.c_5,
+.row.l_3 .c_6,
+.row.l_4 .c_2, .row.l_4 .c_3, .row.l_4 .c_4, .row.l_4 .box.c_5,
+.row.l_5 .c_6{transform: scaleY(-1);}
+
+.row.l_2 .c_1, 
+.row.l_3 .c_2, .row.l_3 .c_3, .row.l_3 .c_4, .row.l_3 .box.c_5,
+.row.l_4 .c_1,
+.row.l_5 .c_2, .row.l_5 .c_3, .row.l_5 .c_4, .row.l_5 .box.c_5,
+.row.l_6 .c_1{transform: scale(-1);}
+
+.box.c_15{transform: none !important;}

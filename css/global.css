@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "ChelaOne";
+    src: url("fonts/ChelaOne-Regular.ttf");
+}
+@font-face {
+    font-family: "Itim";
+    src: url("fonts/Itim-Regular.ttf");
+}
+html, body{
+    margin: 0;
+    height: 100%;
+    transition: opacity 1s linear;
+}
+body{
+    background-image: url("../images/Sunny_Cloud_Background.png");
+    font-family: "Itim";
+    color: #E67300;
+    overflow: hidden;
+}
+body.suddenDeath{
+    backdrop-filter: invert(1);
+}
+body:before {
+	content:'';
+	position: absolute;
+    top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.2);
+}
+section, article, footer, aside, div{
+    position: relative;
+    margin: 0 auto;
+    max-height: 100%;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}

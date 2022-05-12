@@ -1,0 +1,34 @@
+#scoreTable{
+    width: 50%;
+    max-width: 610px;
+}
+#scoreTable .score{
+    margin: 2%;
+}
+#scoreTable #title{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 3vh;
+    line-height: 3vh;
+    margin: 3% 3% 1% 3%;
+}
+#scoreTable img{
+    vertical-align: text-bottom;
+    width: 10%;
+    margin: 0.5%;
+}
+#scoreTable .points{
+    position: relative;
+    text-align: center;
+    background-image: url("../images/gui/field.png");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: inline-block;
+    margin-left: 5%;
+    padding: 0 2% 0;
+}
+#scoreTable article:last-child{
+    margin-bottom: 2%;
+}

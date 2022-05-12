@@ -1,0 +1,402 @@
+{
+    "1": {
+        "a": "Kyūbi / Kurama",
+        "o": "Naruto"
+    },
+    "2": {
+        "a": "Portgas D. Ace",
+        "o": "One Piece"
+    },
+    "3": {
+        "a": "Erza Scarlet <i>Titania</i>",
+        "o": "Fairy Tail"
+    },
+    "4": {
+        "a": "Charizard",
+        "o": "Pokémon"
+    },
+    "5": {
+        "a": "Clefairy",
+        "o": "Pokémon"
+    },
+    "6": {
+        "a": "Zelda",
+        "o": "The Legend of Zelda"
+    },
+    "7": {
+        "a": "Gundam",
+        "o": "Mobile Suit Gundam"
+    },
+    "8": {
+        "a": "Mutenrōshi - Duende Tortuga",
+        "o": "Dragon Ball"
+    },
+    "9": {
+        "a": "Técnica de fusión",
+        "o": "Dragon Ball"
+    },
+    "10": {
+        "a": "Agatsuma Zen'itsu",
+        "o": "Kimetsu no Yaiba"
+    },
+    "11": {
+        "a": "Heidi",
+        "o": "Heidi, la niña de los Alpes"
+    },
+    "12": {
+        "a": "Nanase Haruka",
+        "o": "Free!"
+    },
+    "13": {
+        "a": "Cell Jr.",
+        "o": "Dragon Ball"
+    },
+    "14": {
+        "a": "Godzilla",
+        "o": "Godzilla"
+    },
+    "15": {
+        "a": "E. Honda",
+        "o": "Street Fighter"
+    },
+    "16": {
+        "a": "Keroberos",
+        "o": "Sakura Card Captor"
+    },
+    "17": {
+        "a": "Shinra Kusakabe",
+        "o": "En'en Shōbōtai"
+    },
+    "18": {
+        "a": "Kodama",
+        "o": "La Princesa Mononoke"
+    },
+    "19": {
+        "a": "Ryuk",
+        "o": "Death Note"
+    },
+    "20": {
+        "a": "Kirby",
+        "o": "Kirby"
+    },
+    "21": {
+        "a": "Alphonse Elric",
+        "o": "Fullmetal Alchemist"
+    },
+    "22": {
+        "a": "Phoenix Wright / Naruhodō Ryūichi",
+        "o": "Ace Attorney"
+    },
+    "23": {
+        "a": "Wario",
+        "o": "Nintendo"
+    },
+    "24": {
+        "a": "Doraemon",
+        "o": "Doraemon"
+    },
+    "25": {
+        "a": "Yen ¥",
+        "o": "Moneda oficial de Japón"
+    },
+    "26": {
+        "a": "Julian Ross / Misugi Jun",
+        "o": "Captain Tsubasa / Oliver y Benji"
+    },
+    "27": {
+        "a": "Agumon",
+        "o": "Digimon"
+    },
+    "28": {
+        "a": "Sōryūken",
+        "o": "Street Fighter"
+    },
+    "29": {
+        "a": "Weekly Shōnen Jump",
+        "o": "Shūeisha"
+    },
+    "30": {
+        "a": "Hatsune Miku",
+        "o": "Vocaloid"
+    },
+    "31": {
+        "a": "Kirigaya Kazuto - Kirito",
+        "o": "Sword Art Online"
+    },
+    "32": {
+        "a": "Ludicolo",
+        "o": "Pokémon (3ª generación)"
+    },
+    "33": {
+        "a": "Misae",
+        "o": "Shin-chan"
+    },
+    "34": {
+        "a": "Dragón Shenron",
+        "o": "Dragon Ball"
+    },
+    "35": {
+        "a": "Enfermera Joy",
+        "o": "Pokémon"
+    },
+    "36": {
+        "a": "Trafalgar Law",
+        "o": "One Piece"
+    },
+    "37": {
+        "a": "Kurosaki Ichigo",
+        "o": "Bleach"
+    },
+    "38": {
+        "a": "Pikachu",
+        "o": "Pokémon"
+    },
+    "39": {
+        "a": "Dragón Blanco de Ojos Azules",
+        "o": "Yu-Gi-Oh!"
+    },
+    "40": {
+        "a": "Kamiya Taichi / Tai Yagami",
+        "o": "Digimon Adventures"
+    },
+    "41": {
+        "a": "Seiya de Pegaso",
+        "o": "Saint Seiya / Caballeros del Zodiaco"
+    },
+    "42": {
+        "a": "Hinata Shōyō",
+        "o": "Haikyū!!"
+    },
+    "43": {
+        "a": "Natsu Dragneel",
+        "o": "Fairy Tail"
+    },
+    "44": {
+        "a": "Himura Kenshin / Hitokiri Battōsai",
+        "o": "Rurōni Kenshin"
+    },
+    "45": {
+        "a": "Okumura Rin",
+        "o": "Ao no Exorcist"
+    },
+    "46": {
+        "a": "Gatobus",
+        "o": "Mi vecino Totoro"
+    },
+    "47": {
+        "a": "Manga Party",
+        "o": "Motsukora"
+    },
+    "48": {
+        "a": "Killua Zaoldyeck",
+        "o": "Hunter x Hunter"
+    },
+    "49": {
+        "a": "Llama Bebé",
+        "o": "Digimon"
+    },
+    "50": {
+        "a": "Asta",
+        "o": "Black Clover"
+    },
+    "51": {
+        "a": "Sonic Boom",
+        "o": "Street Fighter"
+    },
+    "52": {
+        "a": "Fūton: Rasenshuriken",
+        "o": "Naruto"
+    },
+    "53": {
+        "a": "Tao Pai Pai",
+        "o": "Dragon Ball"
+    },
+    "54": {
+        "a": "Esdeath",
+        "o": "Akame ga Kill!"
+    },
+    "55": {
+        "a": "Arsenio Lupin III",
+        "o": "Lupin III"
+    },
+    "56": {
+        "a": "Soplar el cartucho para que funcione",
+        "o": "Técnica ancestral de reparación"
+    },
+    "57": {
+        "a": "Master Ball",
+        "o": "Pokémon"
+    },
+    "58": {
+        "a": "Kame Hame Ha",
+        "o": "Dragon Ball"
+    },
+    "59": {
+        "a": "Solid Snake",
+        "o": "Metal Gear Solid"
+    },
+    "60": {
+        "a": "Gon Freecss",
+        "o": "Hunter x Hunter"
+    },
+    "61": {
+        "a": "Koro-sensei",
+        "o": "Assassination Classroom"
+    },
+    "62": {
+        "a": "Mazinger Z",
+        "o": "Mazinger Z"
+    },
+    "63": {
+        "a": "Capitán Olimar",
+        "o": "Pikmin"
+    },
+    "64": {
+        "a": "Heiwajima Shizuo",
+        "o": "Durarara!!"
+    },
+    "65": {
+        "a": "Kaneki Ken",
+        "o": "Tokyo Ghoul"
+    },
+    "66": {
+        "a": "Matoi Ryūko",
+        "o": "Kill la Kill"
+    },
+    "67": {
+        "a": "Sugimoto Saichi",
+        "o": "Golden Kamuy"
+    },
+    "68": {
+        "a": "Yagami Light <i>Kira</i>",
+        "o": "Death Note"
+    },
+    "69": {
+        "a": "Metaletemon",
+        "o": "Digimon"
+    },
+    "70": {
+        "a": "Japón",
+        "o": "El país del sol naciente"
+    },
+    "71": {
+        "a": "Geisha",
+        "o": "Artista tradicional japonesa"
+    },
+    "72": {
+        "a": "Sushi",
+        "o": "Gastronomía japonesa"
+    },
+    "73": {
+        "a": "Ramen",
+        "o": "Gastronomía japonesa"
+    },
+    "74": {
+        "a": "Onigiri",
+        "o": "Gastronomía japonesa"
+    },
+    "75": {
+        "a": "Gigante",
+        "o": "Doraemon"
+    },
+    "76": {
+        "a": "Raichu",
+        "o": "Pokémon"
+    },
+    "77": {
+        "a": "Monte Fuji",
+        "o": "Geografía japonesa"
+    },
+    "78": {
+        "a": "Samurai",
+        "o": "Antiguo guerrero japonés"
+    },
+    "79": {
+        "a": "Harakiri / Seppuku",
+        "o": "Suicidio ritual japonés"
+    },
+    "80": {
+        "a": "Karate-dō",
+        "o": "Arte marcial y deporte japonés"
+    },
+    "81": {
+        "a": "Endō Mamoru / Mark Evans",
+        "o": "Inazuma Eleven"
+    },
+    "82": {
+        "a": "Roy Mustang",
+        "o": "Fullmetal Alchemist"
+    },
+    "83": {
+        "a": "Totoro",
+        "o": "Mi vecino Totoro"
+    },
+    "84": {
+        "a": "Katsuki Yūri",
+        "o": "Yūri!! On ice"
+    },
+    "85": {
+        "a": "Midoriya Izuku / Deku",
+        "o": "Boku no Hero Academia"
+    },
+    "86": {
+        "a": "Kuroko Tetsuya",
+        "o": "Kuroko no Basket"
+    },
+    "87": {
+        "a": "Dio Brando",
+        "o": "JoJo's Bizarre Adventure"
+    },
+    "88": {
+        "a": "Rotomdex",
+        "o": "Pokémon Sol y Luna"
+    },
+    "89": {
+        "a": "Bakugō Katsuki / ",
+        "o": "Boku no Hero Academia"
+    },
+    "90": {
+        "a": "Levi Ackerman",
+        "o": "Shingeki no Kyōjin"
+    },
+    "91": {
+        "a": "Hello Kitty",
+        "o": "Hello Kitty"
+    },
+    "92": {
+        "a": "Hadōken",
+        "o": "Street Fighter"
+    },
+    "93": {
+        "a": "Digievolución",
+        "o": "Digimon"
+    },
+    "94": {
+        "a": "Mangaka",
+        "o": "Digna profesión de origen japonés"
+    },
+    "95": {
+        "a": "Shinobi",
+        "o": "No tan digna profesión del antiguo Japón"
+    },
+    "96": {
+        "a": "Iwatani Naofumi",
+        "o": "Tate no Yūsha no Nariagari"
+    },
+    "97": {
+        "a": "Ōzora Tsubasa / Oliver Atom",
+        "o": "Captain Tsubasa / Oliver y Benji"
+    },
+    "98": {
+        "a": "Rimuru",
+        "o": "Tenei Shitara Slime Datta Ken"
+    },
+    "99": {
+        "a": "King Slime / Rey Limo",
+        "o": "Dragon Quest"
+    },
+    "100": {
+        "a": "Chocobo",
+        "o": "Final Fantasy"
+    }
+}

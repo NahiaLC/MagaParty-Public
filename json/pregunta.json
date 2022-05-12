@@ -1,0 +1,662 @@
+{
+    "1": {
+        "q": "En la serie <i>Kimetsu no Yaiba</i>, ¿cómo se llama el conjunto de técnicas que Kamado Tanjirō aprende indirectamente de ver danzar a su padre?",
+        "a": "Hinokami Kagura<br>(Danza del Dios del Fuego)"
+    },
+    "2": {
+        "q": "En la serie <i>Shingeki no Kyōjin</i>, ¿qué parentesco comparten los personajes de Eren Jaeger y Zeke Jaeger?",
+        "a": "Medio hermano (comparten padre)"
+    },
+    "3": {
+        "q": "En la serie <i>Hunter x Hunter</i>, ¿qué elemento maneja Killua Zaoldyeck tras despertar sus habilidades de <i>'nen'</i>?",
+        "a": "Electricidad"
+    },
+    "4": {
+        "q": "En la serie <i>Ao no Exorcist</i>, ¿quién es el padre del protagonista Okumura Rin?",
+        "a": "Satán"
+    },
+    "5": {
+        "q": "¿Cómo se titula la serie creada por Ōba Tsugumi y Obata Takeshi, autores de la conocida <i>Death Note</i>, en la que 13 ángeles escogen cada uno a un humano para que se maten entre sí y así elegir al nuevo Dios?",
+        "a": "Platinum End"
+    },
+    "6": {
+        "q": "En la serie <i>Boku no Hero Academia</i>, ¿qué puesto ocupa Midoriya Izuku en la lista de usuarios del don 'One for All'?",
+        "a": "El noveno"
+    },
+    "7": {
+        "q": "En la serie spin-off <i>Vigilante -Boku no Hero Academia ILLEGALS-</i>, ¿qué don tiene el protagonista Haimawari Koichi?",
+        "a": "Deslizamiento"
+    },
+    "8": {
+        "q": "En la serie <i>Haikyū!!</i>, ¿con qué nombre se suele hacer referencia a los partidos entre los equipos de los institutos de preparatoria Karasuno y Nekoma?",
+        "a": "Batalla del basurero"
+    },
+    "9": {
+        "q": "En la serie <i>Ajin: Semi-humano</i>, ¿cual es la característica principal de la raza 'Ajin'?",
+        "a": "Son inmortales"
+    },
+    "10": {
+        "q": "En la serie <i>Vanitas no Carte (Los apuntes de Vanitas)</i>, ¿con qué objetivo quiere usar el protagonista Vanitas el 'Libro de Vanitas'?",
+        "a": "Para liberar a los vampiros de la maldición del Vampiro de la Luna Azul."
+    },
+    "11": {
+        "q": "En la serie <i>Shaman King</i>, ¿cómo se llama el espíritu acompañante del protagonista Asakura Yō, el cual años más tarde lega a su hijo Hana?",
+        "a": "Amidamaru"
+    },
+    "12": {
+        "q": "En la serie <i>Gangsta</i>, ¿qué incapacidad tiene el protagonista Nicholas Brown?",
+        "a": "Es sordomudo"
+    },
+    "13": {
+        "q": "En la serie <i>Blue Period</i>, ¿la escena de qué barrio tokiota dibuja el protagonista Yaguchi Yatora al principio de la serie que termina por despertar su interés por la pintura y el arte en general?",
+        "a": "Shibuya"
+    },
+    "14": {
+        "q": "La serie <i>Atom: The beginning</i> actúa como una precuela y spin-off en un universo alternativo de una conocida y antigua serie. ¿Cuál?",
+        "a": "Astro Boy"
+    },
+    "15": {
+        "q": "¿Cómo se llama el protagonista principal de la serie de novelas <i>Monogatari (Bakemonogatari, Kizumonogatari, Nisemonogatari...)</i>?",
+        "a": "Araragi Koyomi"
+    },
+    "16": {
+        "q": "La serie <i>One-Punch Man</i>, ¿en qué clase clasifican a Saitama tras terminar el examen del Registro Nacional de Superhéroes?",
+        "a": "Clase C"
+    },
+    "17": {
+        "q": "La serie <i>Fumetsu no Anata e (To Your Eternity)</i>, ¿qué forma viva adquiere inicialmente Fushi/Inmo antes de conseguir su primera forma humana?",
+        "a": "Un lobo"
+    },
+    "18": {
+        "q": "En la serie <i>Tomodachi Game</i>, ¿cual es una de las motivaciones del protagonista Katagiri Yūichi para seguir participando en los Juegos de la Amistad de adultos?",
+        "a": "Destruir la administración que los controla"
+    },
+    "19": {
+        "q": "En la serie <i>Zetsuen no Tempest</i>, ¿a las obras de qué dramaturgo inglés se hace referencia de forma recurrente?",
+        "a": "William Shakespeare"
+    },
+    "20": {
+        "q": "En la serie <i>Noragami</i>, ¿con qué nombre llama Yato a Yukine cuando quiere usarlo y que adquiera su forma de katana?",
+        "a": "Sekki"
+    },
+    "21": {
+        "q": "En la serie <i>Black Clover</i>, ¿cómo se llama el demonio que habita en el grimorio del trévol de cinco hojas del protagonista Asta a través del cual consigue su poder de anti-magia?",
+        "a": "Liebe"
+    },
+    "22": {
+        "q": "¿A qué juego juegan los personajes de la serie <i>El León de Marzo (Sangatsu no Lion)</i>?",
+        "a": "Al shōgi"
+    },
+    "23": {
+        "q": "En la serie <i>Servamp</i>, ¿en qué se transforma habitualmente Sleepy Ash, el vampiro sirivente o servamp protagonista, cuando no está en forma humana?",
+        "a": "En un gato negro"
+    },
+    "24": {
+        "q": "En la serie <i>En'en no Shōbōtai (Fire Force)</i>, ¿a qué generación de piroquinéticos pertenece el protagonista Kusakabe Shinra?",
+        "a": "A la tercera generación"
+    },
+    "25": {
+        "q": "En la serie <i>Owari no Seraph (Seraph of the End)</i>, ¿cuál es el nombre real del demonio que habita la espada del protagonista Hyakuya Yūichirō, Asuramaru?",
+        "a": "Ashera Tepes"
+    },
+    "26": {
+        "q": "En la serie <i>Sōsei no Onmyōji (Twin Star Exorcist)</i>, ¿cómo se llama el plano paralelo a la realidad donde habitan las impurezas o 'kegare'?",
+        "a": "Magano"
+    },
+    "27": {
+        "q": "En la serie <i>Vinland Saga</i>, ¿dónde se situa el pueblo del que es originiario el protagonista, Thorfinn?",
+        "a": "Islandia"
+    },
+    "28": {
+        "q": "En la serie <i>Made in Abyss</i>, ¿en qué capa del abismo se encuentra Riko y Reg con Nanachi?",
+        "a": "En la cuarta"
+    },
+    "29": {
+        "q": "En la serie <i>Wotakoi: Qué difícil es el amor para un otaku (Wotaku ni Koi wa Muzukashii)</i>, ¿cuál es la afición de Nifuji Hirotaka?",
+        "a": "Los videojuegos"
+    },
+    "30": {
+        "q": "En la serie <i>Seikon no Qwaser</i>, ¿qué elemento de la tabla periódica controla el protagonista Alexander ('Sasha') Nikolaevich Hell?",
+        "a": "El hierro"
+    },
+    "31": {
+        "q": "En la serie <i>Fullmetal Alchemist (Hagane no Renkinjutsushi)</i>, ¿cómo se llama el antiguo país desaparecido del que son originarios tanto Van Hohenheim, padre de los hermanos Elric, como al antagonista principal de la serie, 'Padre'?",
+        "a": "Xerxes"
+    },
+    "32": {
+        "q": "En la serie <i>Soul Eater</i>, ¿en qué arma se transforma Soul Evans, uno de sus protagonistas?",
+        "a": "En una guadaña"
+    },
+    "33": {
+        "q": "En la serie <i>Bakuman</i>, ¿a qué profesión aspiran sus protagonistas Mashiro Moritaka y Takagi Akito?",
+        "a": "Mangakas"
+    },
+    "34": {
+        "q": "En la serie manga <i>Wild Life</i>, ¿qué habilidad especial tiene el protagonista Iwashiro Tesshō que le ayuda en su labor como veterinario?",
+        "a": "Un sentido del oído muy fino."
+    },
+    "35": {
+        "q": "En la serie <i>A Silent Voice (Koe no Katachi)</i>, ¿qué está planeando hacer el protagonista Ishida Shōya al principio de la historia?",
+        "a": "Suicidarse"
+    },
+    "36": {
+        "q": "En la serie <i>Nurarihyon no Mago</i>, ¿de qué tiene ascendencia el protagonista Nura Rikuo, además de humana?",
+        "a": "De Yōkai (un Nurarihyon en concreto)"
+    },
+    "37": {
+        "q": "¿Cuál es el nombre real de N, personaje de la serie <i>Death Note</i>?",
+        "a": "Nate Rivers"
+    },
+    "38": {
+        "q": "En la serie <i>Rurouni Kenshin</i>, ¿qué particularidad caracteriza a la katana que porta el protagonista Himura Kenshin?",
+        "a": "Tiene el filo invertido"
+    },
+    "39": {
+        "q": "En la serie <i>Dragon Ball</i>, ¿qué nombre recibe la reencarnación humana del monstruo Buu?",
+        "a": "Uub"
+    },
+    "40": {
+        "q": "En la serie <i>Pandora Hearts</i>, ¿qué nombre reciben aquellos que residen en el Abismo?",
+        "a": "Cadena"
+    },
+    "41": {
+        "q": "En la serie <i>Museum</i>, ¿la forma de qué animal tiene la máscara que usa el asesino?",
+        "a": "Rana"
+    },
+    "42": {
+        "q": "En la serie animada <i>Uchōten Kazoku</i>, ¿qué animal con capacidades de transformación del folclore japonés son la familia Shimogamo?",
+        "a": "Tanuki"
+    },
+    "43": {
+        "q": "En la serie <i>Akame ga Kill!</i>, ¿qué nombre reciben los poderosos artefactos ancestrales con los que luchan los personajes?",
+        "a": "Teigu<br>(Arma Imperial)"
+    },
+    "44": {
+        "q": "En la serie <i>Parasyte</i>, ¿en qué parte del cuerpo del protagonista Izumi Shin'ichi parasita Migi?",
+        "a": "En la mano derecha"
+    },
+    "45": {
+        "q": "En la serie <i>Desaparecido/Erased (Boku dake ga inai machi)</i>, ¿en qué consiste la habilidad 'Revival' que posee el protagonista Fujinuma Satoru?",
+        "a": "Le permite volver en el tiempo para rescatar a alguien cerca de él de un peligro fatal."
+    },
+    "46": {
+        "q": "En la serie <i>Code Geass</i>, ¿qué poder tiene el 'Geass' que CC concede al protagonista Lelouch Lamperouge?",
+        "a": "Obediencia absoluta<br><small>(Hace que la persona a la que esté mirando cumpla una orden suya, sea cual sea)</small>"
+    },
+    "47": {
+        "q": "En la serie <i>Mob Psycho 100</i>, ¿en qué se basa el poder del protagonista Kageyama Shigeo?",
+        "a": "La telequinesis"
+    },
+    "48": {
+        "q": "En la serie <i>Kinghts of Sidonia</i>, ¿cómo se llama a las gigantescas criaturas alienígenas contra las que la humanidad se defiende usando robots gigantes tripulados?",
+        "a": "Gauna"
+    },
+    "49": {
+        "q": "En la serie <i>Zetman</i>, ¿cómo se llama el alter ego de Amagi Kōga cuando éste sale a luchar contra los Evol en un traje-armadura?",
+        "a": "Alphas"
+    },
+    "50": {
+        "q": "En la serie <i>Fruits Basket</i>, ¿en qué leyenda oriental está basada la maldición que portan algunos miembros de la familia Sōma?",
+        "a": "La leyenda del origen del zodiaco chino."
+    },
+    "51": {
+        "q": "En la serie <i>Horimiya</i>, ¿por qué se niega el protagonista Miyamura Izumi a participar en las clases de natación de la escuela?",
+        "a": "Porque no quiere que en al escuela sepan que tiene tatuajes."
+    },
+    "52": {
+        "q": "¿Cómo se llama el vampiro otaku protagonista de la serie <i>Blood Lad</i>?",
+        "a": "Staz Charlie Blood"
+    },
+    "53": {
+        "q": "En la serie <i>Im: El sumo sacerdote Imhotep</i>, ¿cómo se llama el antagonista principal?",
+        "a": "Zoser"
+    },
+    "54": {
+        "q": "En la serie <i>Tōkyō Ghoul</i>, ¿qué nombre reciben los apéndices formados por células RC que los ghouls hacen crecer de sus cuerpos y usan como armas?",
+        "a": "Kagune"
+    },
+    "55": {
+        "q": "En la serie <i>Shokugeki no Sōma (Food Wars)</i>, ¿cómo se llama el dormitorio donde vive el protagonista Yukihira Sōma en su estancia en la Escuela de Cocina Tōtsuki?",
+        "a": "Estrella Polar"
+    },
+    "56": {
+        "q": "En la serie <i>La espada del inmortal (Mugen no Jūnin)</i>, ¿qué animal son los 'kessenchū' que otorgan al protagonista Manji su inmortalidad?",
+        "a": "Gusanos"
+    },
+    "57": {
+        "q": "En la serie <i>D.Gray-Man</i>, ¿con qué instrumento musical controla el Arca de los Noé el protagonista Allen Walker?",
+        "a": "Un piano"
+    },
+    "58": {
+        "q": "En la serie <i>Dimension W</i>, ¿para qué se usa esta dimensión w?",
+        "a": "Para obtener energía infinita"
+    },
+    "59": {
+        "q": "¿De qué famosa recopilación de cuentos tiene influencias la serie <i>Magi: The labytinth of Magic</i>?",
+        "a": "Las Mil y Una Noches"
+    },
+    "60": {
+        "q": "En la serie <i>Sword Art Online</i>, ¿qué nombre tiene la tecnología de inmersión total necesaria para conectarse al juego VRMMORPG 'Sword Art Online'?",
+        "a": "NerveGear"
+    },
+    "61": {
+        "q": "En la serie <i>Re:Zero kara Hajimeru Isekai Seikatsu</i>, ¿quién otorga al protagonista Natsuki Subaru su habiliad para volver a la vida tras la muerte en un instante de tiempo anterior a que suceda?",
+        "a": "Satella, la Bruja de la Envidia"
+    },
+    "62": {
+        "q": "En la serie <i>DanMachi (Dungeon ni deai o motomeru no wa machigatteiru darou ka?)</i>, ¿a la Familia de qué diosa pertenece el protagonista Bell Cranel?",
+        "a": "Hestia"
+    },
+    "63": {
+        "q": "En la serie <i>Overlord</i>, ¿qué nombre usaba el protagonista Ainz Ooal Gown antes de usar para sí el de su hermandad?",
+        "a": "Momonga"
+    },
+    "64": {
+        "q": "En la serie <i>Hataraku Maou-sama!</i>, ¿en qué tipo de establecimiento trabaja el protagonista Maou Sadao (Satan Jacob) tras huir de Ente Isla y verse forzado a vivir en la Tierra, en Tokio?",
+        "a": "Una hamburguesería de comida rápida<br><small>(En un McRonald's, referencia a McDonald's)</small>"
+    },
+    "65": {
+        "q": "En la serie <i>Naruto</i>, ¿a qué bijū o bestia con colas corresponde el nombre de 'Matatabi'?",
+        "a": "A la de dos colas, un bakeneko (gato yōkai japonés de dos colas)<br><small>(Dato curioso: 'Matatabi' es el nombre japonés de una enredadera que produce sobre los gatos un efecto algo más fuerte que la hierba gatera)</small>"
+    },
+    "66": {
+        "q": "En la serie <i>Bleach</i>, ¿qué elemento controla la zanpakutō del capitán de la 10ª división Hitsugaya Tōshirō, Hyōrinmaru?",
+        "a": "Hielo"
+    },
+    "67": {
+        "q": "En la serie <i>One Piece</i>, ¿qué capitanes pirata forman parte de los 'Yonkō' o 'Cuatro Emperadores' antes de los eventos de Marineford?",
+        "a": "Edward Newgate 'Barbablanca'<br>Shanks<br>Kaidō<br>Charlotte Linlin 'Big Mom'"
+    },
+    "68": {
+        "q": "En la serie <i>Fairy Tail</i>, ¿cómo se llama la dragona que crió a Wendy, una de los Dragon Slayers de la serie?",
+        "a": "Grandine"
+    },
+    "69": {
+        "q": "En la serie <i>Chainsaw Man</i>, ¿qué parte del cuerpo del protagonista Denji sustituye Pochita cuando éste muere traicionado por la Yakuza para la que trabajaba?",
+        "a": "El corazón"
+    },
+    "70": {
+        "q": "¿Qué planeta terraforman en al serie <i>Terra Formars</i>?",
+        "a": "Marte"
+    },
+    "71": {
+        "q": "En la serie <i>Gokushufudō (Yakuza Amo de Casa)</i>, ¿cuál es el mote que tiene el protagonista Tatsu dentro del mundo de la Yakuza?",
+        "a": "El Dragón Inmortal"
+    },
+    "72": {
+        "q": "En la serie <i>Dr. Slump</i>, ¿cómo se llama la simpática androide protagonista?",
+        "a": "Arale"
+    },
+    "73": {
+        "q": "En la serie <i>Edens Zero</i>, ¿qué puede controlar el protagonista Shiki Granbell con su Ether Gear?",
+        "a": "La gravedad"
+    },
+    "74": {
+        "q": "En la serie <i>Hellsing</i>, ¿qué nombre tiene el vampiro protagonista?",
+        "a": "Alucard"
+    },
+    "75": {
+        "q": "En la serie <i>Jujutsu Kaisen</i>, ¿a qué espíritu maldito pertenecen los dedos que se come el protagonista Itadori Yūji?",
+        "a": "Ryōmen Sukuna"
+    },
+    "76": {
+        "q": "En la serie <i>Nanatsu no Taizai (The Seven Deadly Sins)</i>, ¿qué pecado capital representa el protagonista Meliodas?",
+        "a": "La ira"
+    },
+    "77": {
+        "q": "En la serie <i>Tokyo Revengers</i>, ¿qué acción debe realizar el protagonista Hangaki Takemichi para saltar entre el presente y el pasado?",
+        "a": "Darse la mano con otra persona que comparta con él un profundo deseo de cambiar las cosas."
+    },
+    "78": {
+        "q": "En la serie <i>Dumbbell nan-kiro moteru?</i>, ¿cómo se llama el gimnasio al que acuden las protagonistas a ser entrenadas por Machio Naruzo?",
+        "a": "Silverman Gym"
+    },
+    "79": {
+        "q": "¿Qué serie en la que todo se resuelve con juegos está protagonizada por los hermanos Sora y Shiro?",
+        "a": "No Game No Life"
+    },
+    "80": {
+        "q": "¿Qué instrumento tocan los protagonistas de la serie <i>Kono Oto Tomare!</i>?",
+        "a": "El Koto"
+    },
+    "81": {
+        "q": "En la serie <i>Toaru Majitsu no Index</i>, ¿qué nombre recibe el poder que posee su potagonista princimal Kamijō Tōma?",
+        "a": "Imagine Breaker"
+    },
+    "82": {
+        "q": "En la serie <i>Goblin Slayer</i>, ¿cuántas personas forman la partida de caza a la que se une la Sacerdotisa al principio de la historia, la cual es masacrada por goblins?",
+        "a": "Tres personas"
+    },
+    "83": {
+        "q": "Entre las cuatro armas legendarias, ¿cuál es la que recibe el protagonista de la serie <i>Tate no Yūsha no Nariagari</i>, Iwatani Naofumi?",
+        "a": "El escudo"
+    },
+    "84": {
+        "q": "¿Cuál es el alias completo que adopta el detective adolescente Kudō Shin'ichi para ocultar su identidad tras ser rejuvenecido por el efecto de un veneno?",
+        "a": "Conan Edogawa"
+    },
+    "85": {
+        "q": "¿Cómo se llaman los tres protagonistas principales de la serie <i>Yakusoku no Neverland (The Promised Neverland)</i>?",
+        "a": "Emma<br>Norman<br>Ray"
+    },
+    "86": {
+        "q": "En la serie <i>Last Hero Inuyashiki</i>, ¿qué le ocurre al principio de la historia a su protagonista Inuyashiki Ichirō que cambia su vida para siempre?",
+        "a": "Le transforman en un robot"
+    },
+    "87": {
+        "q": "¿Qué nombre reciben los zombies que habitan el mundo de la obra <i>I Am a Hero</i>?",
+        "a": "ZQN (zokyun)"
+    },
+    "88": {
+        "q": "De los cuatro hermanos Hokuto de la obra <i>El puño de la Estrella del Norte</i>, ¿quién es el protagonista y heredero del arte marcial Hokuto Shinken?",
+        "a": "Kenshirō"
+    },
+    "89": {
+        "q": "¿Cómo se llama el príncipe protagonista de la película <i>La Princesa Mononoke (Mononoke Hime)</i> de Studio Ghibli?",
+        "a": "Ashitaka"
+    },
+    "90": {
+        "q": "¿Cómo se llama el protagonista del manga <i>Trigun</i>?",
+        "a": "Vash"
+    },
+    "91": {
+        "q": "En la serie <i>Assassination Classroom (Ansatsu Kyōshitsu</i>, ¿qué profesión tenía Koro-sensei antes de acabar como tutor de la clase 3-E de secundaria del Insitituo Kunugigaoka?",
+        "a": "Asesino a sueldo"
+    },
+    "92": {
+        "q": "En la serie <i>Card Captor Sakura</i>, ¿cuál es la única carta CLOW que queda en poder de la protagonista Kinomoto Sakura tras haberlas liberado todas por accidente?",
+        "a": "The Windy<br><small>(Viento)</small>"
+    },
+    "93": {
+        "q": "En la serie <i>Black Buttler (Kuroshitsuji)</i>, ¿en qué parte del cuerpo tiene grabado Ciel Phantomhive, protagonista de la serie, el sello de su pacto con el demonio Sebastian Michaelis?",
+        "a": "En el ojo derecho"
+    },
+    "94": {
+        "q": "¿Qué serie de novelas ligeras de Narita Ryōgo, autor de <i>Durarara!!</i>, está ambientada principalmente en los Estados Unidos de los años 30 y tiene como fondo argumental el misterio de un brebaje que vuelve inmortal a quien lo bebe?",
+        "a": "Baccano"
+    },
+    "95": {
+        "q": "¿Cuál es el único estilo de natación que usa Nanase Haruka, protagonista de la serie <i>Free!!</i>?",
+        "a": "Crol (el más usado en competiciones de estilo libre)"
+    },
+    "96": {
+        "q": "¿Qué animal con capacidades de transformación del folclore japonés son la familia Shimogamo, protagonistas de la serie <i>Uchōten Kazoku</i>?",
+        "a": "Tanuki"
+    },
+    "97": {
+        "q": "¿Cómo se llama el 'stand' de Yoshikage Kira, antagonista de la serie <i>JoJo's Bizarre Adventure: Diamond is Umbreakable</i>?",
+        "a": "Killer Queen"
+    },
+    "98": {
+        "q": "¿Qué particularidad tiene la sangre en el universo de <i>Danganronpa</i>?",
+        "a": "Es de color rosa"
+    },
+    "99": {
+        "q": "De los tres tipos de ciclistas que se diferencian en la serie <i>Yowamushi Pedal</i>, ¿a cuál de ellos pertenece el protagonista Onoda Sakamichi",
+        "a": "Escalador"
+    },
+    "100": {
+        "q": "¿Cómo se llama el protagonista principal de la serie <i>Gintama</i>?",
+        "a": "Sakata Gintoki"
+    },
+    "101": {
+        "q": "¿De quién es reencarnación la protagonista de la serie <i>InuYasha</i>, Higurashi Kagome?",
+        "a": "De la sacerdotisa Kikyō"
+    },
+    "102": {
+        "q": "¿Qué promesa hace Keitarō, protagonista de la serie <i>Love Hina</i>, a su amiga de la infancia de la cual está enamorado?",
+        "a": "Ir juntos a la universidad"
+    },
+    "103": {
+        "q": "¿Dónde se integra el 'diario del futuro' de Amano Yukiteru, protagonista de la serie <i>Mirai Nikki</i>?",
+        "a": "En su teléfono móvil"
+    },
+    "104": {
+        "q": "¿Qué máquina pilota Ayanami Rei, personaje de <i>Neon Génesis Evangelion</i>?",
+        "a": "El EVA-00"
+    },
+    "105": {
+        "q": "¿A qué colectivo criminal pertenece la familia de Ichijō Raku, protagonista de la serie <i>Nisekoi</i>?",
+        "a": "A la Yakuza japonesa"
+    },
+    "106": {
+        "q": "¿La armadura de qué constelación porta originalmente Seiya, protagonista de la serie <i>Saint Seiya (Caballeros del Zodiaco)</i>?",
+        "a": "Pegaso"
+    },
+    "107": {
+        "q": "¿Con qué electrodoméstico logra crear una máquina del tiempo Okabe Rintarō, protagonista de la serie <i>Steins;Gate</i>?",
+        "a": "Con un microondas"
+    },
+    "108": {
+        "q": "En la serie <i>Tengen Toppa Gurren Lagann</i>, ¿qué personajes pilotan originalmente el robot 'Gurren Lagann'?",
+        "a": "Simon y Kamina"
+    },
+    "109": {
+        "q": "¿Qué personaje de la serie <i>Captain Tsubasa (Campeones: Oliver y Benji)</i> sólo podía jugar hasta diez minutos por partido debido a una enfermedad coronaria?",
+        "a": "Misugi Jun<br><small>(Julian Ross en España)</small>"
+    },
+    "110": {
+        "q": "¿Qué famoso estudio de animación fue fundado en 1985 por Miyazaki Hayao y Takahata Isao?",
+        "a": "Studio Ghibli"
+    },
+    "111": {
+        "q": "En la serie <i>Durarara!!</i>, ¿cómo se llama el informante con quién se está peleando siempre Heiwajima Shizuo por las calles de Ikebukuro?",
+        "a": "Orihara Izaya"
+    },
+    "112": {
+        "q": "¿Cuál es el dulce favorito del gato cósmico Doraemon?",
+        "a": "Dorayaki"
+    },
+    "113": {
+        "q": "¿Cuál es el nombre de la magia con la cual obtiene la inmortalidad Konoe Tōta, protagonista de la serie <i>UQ Holder</i>, secuela de <i>Mahō Sensei Negima</i>?",
+        "a": "Magia Erebea"
+    },
+    "114": {
+        "q": "En la serie <i>Kekkai Sensen (Blood Blockade Battlefront)</i>, ¿cómo se llama la organización que vela por el equilibro entre la Tierra y el Otro Mundo en la ciudad de Hellsalem Lot a la que pertenece el protagonista Leonardo Watch?",
+        "a": "Libra"
+    },
+    "115": {
+        "q": "¿Qué serie comienza con la compra de Hatori Chise como esclava por parte de un hombre con cabeza de bestia llamado Elias Ainsworth?",
+        "a": "Mahō Tsukai no Yome<br><small>(The Ancient Magus Bride)</small>"
+    },
+    "116": {
+        "q": "¿Qué personaje Vocaloid canta originalmente la canción <i>Chūbyō Gekihatsu Boys</i> que inspira y da título a la serie de novelas ligeras y al anime homónimos sobre estudiantes de instituto con el síndrome chūnibyō?",
+        "a": "Kagamine Len"
+    },
+    "117": {
+        "q": "¿Qué rasgo de personalidad muy característico tiene Ryūgūin Seiya, protagonista de la serie <i>Shinchō Yūsha: Kono Yūsha ga Ore Tueee Kuse ni Shinchō Sugiru</i>?",
+        "a": "Es extremadamente precavido"
+    },
+    "118": {
+        "q": "¿Qué nombre recibe la región en la que transcurren los juegos de la octava generación de la franquicia Pokémon, <i>Pokémon Espada</i> y <i>Pokémon Escudo</a>?",
+        "a": "Galar"
+    },
+    "119": {
+        "q": "¿Cuál fue uno de los primeros juegos que salió para Game Boy en 1989, y el primero compatible con el cable Game Link, que cuenta desde el 2019 con una versión Battle Royale para la consola Nintendo Switch?",
+        "a": "Tetris"
+    },
+    "120": {
+        "q": "En el viedojuego <i>Xenoblade Chronicles 2</i>, ¿qué nombre reciben las criaturas que nacen de la resonancia entre un cristal primordial y un piloto?",
+        "a": "Blade"
+    },
+    "121": {
+        "q": "En el viedojuego <i>Fire Emblem: Three Houses</i>, ¿quién es el líder de la casa de los Ciervos Dorados?",
+        "a": "Claude"
+    },
+    "122": {
+        "q": "En el viedojuego <i>The Legend of Zelda: Breath of the Wild</i>, ¿cómo se llama el lugar en el que despierta Link al principio del juego?",
+        "a": "Santuario de la Vida"
+    },
+    "123": {
+        "q": "En el videojuego <i>Octopath Traveler</i>, ¿qué viajero necesitas llevar en el grupo para poder abrir los cofres morados?",
+        "a": "Therion"
+    },
+    "124": {
+        "q": "¿Cómo se llama la prometida de Noctis Lucis Caelum, protagonista del videojuego <i>Final Fantasy XV</i>?",
+        "a": "Lunafreya Nox Fleuret"
+    },
+    "125": {
+        "q": "¿Cuál de los objetos que puedes recoger a lo largo de las carreras de los juegos <i>Mario Kart</i> hace empequeñecer a tus rivales?",
+        "a": "El rayo"
+    },
+    "126": {
+        "q": "¿Qué objetos recoge Sonic a lo largo de cada una de las fases de los juegos que protagoniza?",
+        "a": "Anillos"
+    },
+    "127": {
+        "q": "¿Qué producto de Umbrella Corp. puede convertirte en un zombie?",
+        "a": "T-virus"
+    },
+    "128": {
+        "q": "¿Al pasado de qué región Pokémon viajas en el videojuego <i>Leyendas Pokémon: Arceus</i>?",
+        "a": "Sinnoh"
+    },
+    "129": {
+        "q": "¿A qué franquicia de series mecha pertenece la estatua móvil que se encuentra enfrente del centro comercial <i>DiverCity Tokyo Plaza</i> en la isla de Odaiba en Tokio?",
+        "a": "Gundam"
+    },
+    "130": {
+        "q": "En la serie <i>Kuroko no Basket</i>, ¿quién es el jugador de la 'Generación de los Milagros' especializado en tiros triples?",
+        "a": "Midorima Shintarō"
+    },
+    "131": {
+        "q": "En la serie <i>Yūri!!! on Ice</i>, ¿quién entrena al protagonista Katsuki Yūri a lo largo de la historia?",
+        "a": "Victor Nikiforov"
+    },
+    "132": {
+        "q": "¿Qué serie narra las experiencias de Kobayakawa Sena con el fútbol americano?",
+        "a": "Eyeshield 21"
+    },
+    "133": {
+        "q": "¿En qué deporte compite Makunouchi Ippo, protagonista de la serie Hajime no Ippo?",
+        "a": "Boxeo"
+    },
+    "134": {
+        "q": "De entre las distintas clases existentes de Servants, ¿a cuál pertenece EMIYA, el servant invocado por Tōsaka Rin en la saga Fate?",
+        "a": "Archer"
+    },
+    "135": {
+        "q": "¿Qué videojuego desarrollado por 'From Software' transcurre durante el Japón feudal?",
+        "a": "Sekirō - Shadows Die Twice"
+    },
+    "136": {
+        "q": "¿Qué estilo de lucha utiliza Hwoarang, personaje de la saga de videojuegos <i>Tekken</i>?",
+        "a": "Taekwondo"
+    },
+    "137": {
+        "q": "En la saga de videojuegos de lucha <i>Street Fighter</i>, ¿qué personaje tiene nacionalidad española?",
+        "a": "Vega (Balrog en Japón)"
+    },
+    "138": {
+        "q": "¿Qué relación une a los personajes Sora y Roxas de los juegos de la saga <i>Kingdom Hearts</i>?",
+        "a": "Roxas es el incorpóreo de Sora"
+    },
+    "139": {
+        "q": "En la serie <i>Sailor Moon</i> ¿de qué color, además de blanco, es el traje de Sailor Venus?",
+        "a": "Naranja"
+    },
+    "140": {
+        "q": "En la serie <i>Children of the Whales (Kujira no Kora wa Sajō ni Utau)</i>, ¿qué nombre recibe el poder que pueden usar los marcados y cuyo uso acorta sus vidas?",
+        "a": "Timia/Thymia"
+    },
+    "141": {
+        "q": "En la serie <i>Berserk</i>, ¿qué nombre tiene el grupo de mercenarios liderado por Griffith en la saga 'La Edad de Oro'?",
+        "a": "La Banda del Halcón"
+    },
+    "142": {
+        "q": "¿Cómo se llaman los robots que pilotan los personajes principales de <i>Darling in the Franxx</i>?",
+        "a": "Franxx"
+    },
+    "143": {
+        "q": "¿Qué representa el emblema que porta Yagami Taichi, personaje de la serie <i>Digimon Adventures</i> y sus secuelas?",
+        "a": "El valor"
+    },
+    "144": {
+        "q": "¿Qué objeto milenario guarda el alma del faraón Atem en la serie <i>Yu-Gi-Oh!</i>?",
+        "a": "El Puzle Milenario"
+    },
+    "145": {
+        "q": "En la serie <i>Deadman Wonderland</i>, ¿el nombre de qué pájaro usan como mote de Igarashi Ganta, su protagonista?",
+        "a": "Pájaro carpintero"
+    },
+    "146": {
+        "q": "¿Qué animal de peluche es el favorito de Yotsuba, la protagonista de la serie homónima?",
+        "a": "El oso"
+    },
+    "147": {
+        "q": "¿Quién es el creador de la obra manga <i>Fénix</i>?",
+        "a": "Osamu Tezuka"
+    },
+    "148": {
+        "q": "¿En qué franquicia de juegos de Nintendo podemos controlar a los carismáticos Inklings?",
+        "a": "Splatoon"
+    },
+    "149": {
+        "q": "¿Cómo se llama el protagonista principal del manga Akira?",
+        "a": "Kaneda Shōtarō"
+    },
+    "150": {
+        "q": "¿Qué personaje histórico de Japón protagoniza la serie <i>Vagabond</i>?",
+        "a": "Miyamoto Musashi"
+    },
+    "151": {
+        "q": "¿Qué elemento controla el mamodo Zatch Bell de la serie homónima?",
+        "a": "La electricidad"
+    },
+    "152": {
+        "q": "¿Qué personaje de la serie <i>Prince of Tennis</i> es conocido como 'la vívora'?",
+        "a": "Kaidō Kaoru"
+    },
+    "153": {
+        "q": "En la serie <i>Ranma ½</i>, ¿en qué se transforma el padre de Ranma cuando se moja con agua fría?",
+        "a": "En oso panda"
+    },
+    "154": {
+        "q": "En la serie <i>Kill la Kill</i>, ¿cómo se llama la organización cuyo objetivo principal es expulsar del planeta las fibras vivas de combate?",
+        "a": "Nudist Beach"
+    },
+    "155": {
+        "q": "¿Cómo se llama el juego MMORPG en el que transcurren las distintas historias de la saga de mangas, novelas, animes y videojuegos <i>.hack</i>?",
+        "a": "The World"
+    },
+    "156": {
+        "q": "¿Qué película no fue producida por Studio Ghibli pero sin embargo se cuenta dentro de su catálogo ya que su éxito fue lo que permitió a sus creadores fundar el estudio de animación?",
+        "a": "Nausicaä del Valle del Viento<br>(Kaze no Tani no Nausicaä)"
+    },
+    "157": {
+        "q": "¿Qué familia es la protagonista de la saga <i>Castlevania</i>?",
+        "a": "La familia Belmont"
+    },
+    "158": {
+        "q": "¿Que particular situación familiar se da en la casa de los protagonistas de <i>Marmalade Boy (La Familia Crece)</i>?",
+        "a": "Los padres de los protagonistas intercambian las parejas"
+    },
+    "159": {
+        "q": "¿Qué emblemática arma porta Gaudy, personaje de la serie <i>Slayers</i>?",
+        "a": "La espada de luz Gorun Nova"
+    },
+    "160": {
+        "q": "¿Cómo se llaman los hermanos que protagoinzan <i>Devil May Cry</i>?",
+        "a": "Dante y Vergil"
+    },
+    "161": {
+        "q": "¿Qué consigue Megaman cada vez que derrota a un enemigo?",
+        "a": "Absorber sus poderes"
+    },
+    "162": {
+        "q": "¿Que reconocido y creativo creador de videojuegos es el padre de la saga <i>Metal Gear</i>?",
+        "a": "Kojima Hideo"
+    },
+    "163": {
+        "q": "¿Qué objeto permite a Mario conseguir una cola de mapache en el juego <i>Super Mario Bros.</i>?",
+        "a": "Una hoja"
+    },
+    "164": {
+        "q": "¿El nombre de qué fruta tiene la protagonista de los videojuegos de la saga <i>Bayonetta</i>?",
+        "a": "Cereza"
+    },
+    "165": {
+        "q": "En la secuela de la serie <i>Card Captor Sakura</i> que ocurre dos años más tarde, ¿qué les pasa a las cartas de Kinomoto Sakura después de que ésta tuviera una especie de sueño profético?",
+        "a": "Se vuelven transparentes, perdiendo su poder."
+    }
+}
