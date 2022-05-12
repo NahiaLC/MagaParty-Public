@@ -16,16 +16,12 @@ Comandos de juego
     1 -> Seleccionar Verdadero en vf
     2 -> Seleccionar Falso en vf
     T -> Empezar crono vf
-
-    ----
-
     ctrl+1 -> Sumar al jugador 1
     ctrl+2 -> Sumar al jugador 2
     ctrl+3 -> Sumar al jugador 3
     ctrl+4 -> Sumar al jugador 4
     ctrl+5 -> Sumar al jugador 5
     ctrl+6 -> Sumar al jugador 6
-
     shif+1 -> Restar al jugador 1
     shif+2 -> Restar al jugador 2
     shif+3 -> Restar al jugador 3
